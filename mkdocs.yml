@@ -1,0 +1,12 @@
+site_name: MeshCore Manual PL
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  logo: assets/meshcore.png
+  language: pl
+  features:
+    - search.suggest
+    - search.share
+    - content.tooltips
+plugins:
+  - search
