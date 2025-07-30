@@ -45,5 +45,3 @@ Nie ma żadnych opłat jak w przypadku dostępu do Internetu, nie trzeba się ni
 ## Zainteresowałeś mnie. Co muszę mieć, aby zacząć z tego korzystać?
 
 Kliknij na interesującą cię sekcję po lewej stronie, aby przejść dalej. 
-
-[Hover me]("Siema, co tam?")
