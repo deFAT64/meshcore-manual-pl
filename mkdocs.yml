@@ -1,5 +1,13 @@
 site_name: MeshCore Manual PL
 site_url: https://mydomain.org/mysite
+nav:
+  - 'Co to jest MeshCore?': 'index.md'
+  - 'Jak zacząć?':
+    - 'Wybór urządzenia': './jakZaczac/wyborUrzadzenia.md'
+    - 'Instalacja sterowników': './jakZaczac/instalacjaSterownikow.md'
+    - 'Flashowanie urzadzenia':
+      - 'Heltec V3 układ ESP32': './jakZaczac/flashowanieHeltecV3.md'
+    - 'Konfiguracja urządzenia z telefonu': './jakZaczac/konfiguracjaAndroid.md'
 theme:
   name: material
   logo: assets/meshcore.png
@@ -10,3 +18,7 @@ theme:
     - content.tooltips
 plugins:
   - search
+  - glightbox:
+      zoomable: true
+markdown_extensions:
+  - admonition
