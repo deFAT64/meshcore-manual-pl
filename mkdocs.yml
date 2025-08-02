@@ -8,6 +8,14 @@ nav:
     - 'Flashowanie urzadzenia':
       - 'Heltec V3 układ ESP32': './jakZaczac/flashowanieHeltecV3.md'
     - 'Konfiguracja urządzenia z telefonu': './jakZaczac/konfiguracjaAndroid.md'
+    - 'Konfiguracja telemetrii': './jakZaczac/konfiguracjaTelemetrii.md'
+  - 'Zaawansowane':
+    - 'Role': './zaawansowane/role.md'
+    - 'Klucz publiczny i prywatny': './zaawansowane/kluczPublicznyIprywatny.md'
+    - 'Routing, kanał publiczny i advert': './zaawansowane/routing.md'
+    - 'Duty cycle': './zaawansowane/dutyCycle.md'
+    - 'Repeatery':
+      - 'Dobre praktyki przy budowaniu repeaterów': './zaawansowane/repeater/jakBudowacRepeatery.md'
 theme:
   name: material
   logo: assets/meshcore.png
