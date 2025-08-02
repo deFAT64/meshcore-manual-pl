@@ -1,5 +1,7 @@
 # Android - konfiguracja płytki z poziomu smartfona
 
+## Podstawowa konfiguracja
+
 1. Na samym początku musimy wejść do sklepu Google Play i zainstalować [tę aplikację.](https://play.google.com/store/apps/details?id=com.liamcottle.meshcore.android&hl=pl)
    
     <img src="/jakZaczac/img/konfiguracjaAndroid/1.webp" width="300px">
@@ -74,4 +76,32 @@
     <img src="/jakZaczac/img/konfiguracjaAndroid/13.webp" width="300px">
 
 ## Pozostałe opcje
+
+- **Manage Identity Key** - opcja eksportowania i importowania [klucza prywatnego.](/zaawansowane/kluczPublicznyIprywatny)
+
+- **Bluetooth Settings** - opcje konfiguracyjne Bluetooth. Tutaj możemy wybrać, czy kod PIN do parowania ma być losowy i wyświetlany na ekranie, czy też stały.
+
+- **Contact Settings** - opcje konfiguracyjne kontaktów
+
+- **Message Settings** - opcje konfiguracyjne wiadomości. Jeśli nie wiesz, co robisz, pozostaw domyślne ustawienia.
+
+- **Notification Settings** - ustawienia powiadomień generowanych przez aplikację.
+
+- **Position Settings** - ustawienia GPS. Działa wtedy, jeśli nasza płytka posiada moduł GPS i jest on obsługiwany przez oprogramowanie. 
+
+- **Telemetry Settings** - [ustawienia telemetrii.](./prawidlowaKonfiguracjaTelemetrii.md)
+
+- **Import Config** - importowanie wcześniej zapisanej konfiguracji.
+
+- **Export Config** - eksportowanie konfiguracji z płytki na telefon. Po prostu kopia zapasowa.
+
+- **Purge Contacts** - usuwa wszystkie znalezione kontakty z telefonu i z płytki.
+
+- **Debug Logs** - konsola debugowania. 
+
+- **Factory Reset** - przywracanie ustawień do wartości domyślnych. 
+
+- **Reboot** - ponowne uruchomienie płytki
+
+
 
