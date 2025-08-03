@@ -17,6 +17,8 @@ nav:
     - 'Duty cycle': './zaawansowane/dutyCycle.md'
     - 'Repeatery':
       - 'Dobre praktyki przy budowaniu repeaterów': './zaawansowane/repeater/jakBudowacRepeatery.md'
+  - 'FAQ':
+    - 'Dlaczego nie Meshtastic': './faq/dlaczegoNieMeshtastic.md'
 theme:
   name: material
   logo: assets/meshcore.png
