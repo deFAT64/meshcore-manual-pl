@@ -7,6 +7,7 @@ nav:
     - 'Instalacja sterowników': './jakZaczac/instalacjaSterownikow.md'
     - 'Flashowanie urzadzenia':
       - 'Heltec V3 układ ESP32': './jakZaczac/flashowanieHeltecV3.md'
+      - ' Xiao nRF52840 układ nRF': './jakZaczac/flashowanieXiaoNrf.md'
     - 'Konfiguracja urządzenia z telefonu': './jakZaczac/konfiguracjaAndroid.md'
     - 'Konfiguracja telemetrii': './jakZaczac/konfiguracjaTelemetrii.md'
   - 'Zaawansowane':
