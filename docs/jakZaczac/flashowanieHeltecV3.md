@@ -4,12 +4,12 @@
     Poradnik dotyczy flashowania płytki pod systemem Windows.
 
 !!! info
-    Przed rozpoczęciem wykonywania tego poradnik zainstaluj przeglądarkę Google Chrome lub Microsoft Edge.
+    Przed rozpoczęciem wykonywania tego poradnika zainstaluj przeglądarkę Google Chrome lub Microsoft Edge.
 
 !!! note
     W tym poradniku na płytce zostanie zainstalowanie oprogramowanie typu "klient". Więcej o rolach i ich sposobie działania znajdziesz na [tej stronie](/zaawansowane/role).
 
-!!! warning
+!!! danger
     **Przed podłączeniem płytki do zasilania obowiązkowo podłącz antenę! Urządzenie pracujące bez anteny może ulec uszkodzeniu!**
 
 1. Podłącz kabel USB do płytki.
