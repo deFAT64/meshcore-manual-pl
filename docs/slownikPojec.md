@@ -1,0 +1,55 @@
+# Słownik pojęć
+
+### Code Rate
+Współczynnik kodowania. Na ile bitów danych przypada bitów korekcyjnych. [Dokument techniczny.](https://www.thethingsnetwork.org/docs/lorawan/fec-and-code-rate/)
+
+### Duty Cycle
+Czas antenowy. Określa jak długo nasze urządzenie może nadawać w danej jednoste czasu. Dla Polski wynosi to 10% dla jednej godziny. [Dokument techniczny.](https://www.thethingsnetwork.org/docs/lorawan/duty-cycle/)
+
+### Flooding
+Sposób przekazywania pakietów polegający na tym, że urządzenie nadaje sygnał w eter do wszystkich urządzeń, oczekująć że ktoś go usłyszy i prześle wiadomość dalej. 
+
+### Kanał publiczny
+Kanał dostępny dla wszystkich i każdy, kto zajmuje się w sieci MeshCore może na nim napisać. Każdy, kto jest w sieci MeshCore otrzyma tę wiadomość, jeśli flooding do niego doleci. 
+
+### Kanał radiowy
+Wycinek w paśmie radiowym, w którym można przesyłać dane. 
+
+### Klient
+Urządzenie, które potrafi odbierać i wysyłać dane, ale nie retransmituje pakietów. 
+
+### Klucz publiczny i klucz prywatny
+[Tutaj wyjaśnienie.](/zaawansowane/kluczPublicznyIprywatny)
+
+### Noise Floor
+Suma wszystkich szumów w eterze. Im niżej, tym lepiej. 
+
+### Presety
+Predefiniowane ustawienia radia LoRa. Więcej informacji znajdziesz [tutaj.](/zaawansowane/presety)
+
+### Repeater
+Urządzenie zajmujące się retransmisją pakietów w sieci MeshCore. Stanową szkielet sieci, potrafią komunikować się ze sobą oraz rozszerzają zasięg sieci MeshCore. 
+
+### Retransmisja
+Określenie przekazywania danych w celu dostarcia do miejsca docelowego.
+
+### Room server
+Urządzenie tworzące w sieci MeshCore czat, w którym z innymi użytkownikami możemy rozmawiać. 
+
+### Routing
+Sposób przekazywania danych na podstawie zestawionej ścieżki. 
+
+### RSSI (Received Signal Strength Indication)
+Wskaźnik mocy odbieranego sygnału. Im bliżej zera, tym lepszy.
+
+### SNR (signal to noise ratio)
+Stosunek sygnału to szumu. Im wyżej, tym lepiej. 
+
+### Spreading Factors
+Określa szybkość transmisji w technologii LoRa. Im mniejszy, tym większa szybkość transmisji danych kosztem odległości. Im większa szybkość transmisji czym czas nadawania urządzenia zmniejsza się, przez co w jednym cyklu "Duty Cycle" można przesłać więcej informacji, jednak na krótszy dystans. [Dokument techniczny.](https://www.thethingsnetwork.org/docs/lorawan/spreading-factors/)
+
+### Szerokość kanału
+Zakres częstotliwości, w jakiej urządzenie transmituje synał bezprzewodowy. Im szerszy kanał, tym więcej danych można przesłać kosztem potencjalnie wiekszych zakłóceń. 
+
+### Telemetria
+Określenie na dane, które są danymi środowiskowymi. Są to np. temeratura, ciśnienie powietrza, stan baterii w urządzeniu, napięcie itd. 
