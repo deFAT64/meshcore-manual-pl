@@ -13,7 +13,7 @@ Założenie było więc takie, aby mieć awaryjny system komunikacyjny w wyniku 
 
 ## Co z tego wyszło?
 
-Meshtastic nie działa stabilnie. W niektórych miejscach jestem wstanie normalnie rozmawiać, w niektórych pomimo dużej ilości nodów nie jestem wstanie nic wysłać, nawet wiadomości prywatnej. Po przestudiowaniu dokumentacji dochodzę do następujących wniosków:
+Meshtastic nie działa stabilnie, szczególnie jak jesteś na skraju sieci. W niektórych miejscach jestem wstanie normalnie rozmawiać, w niektórych pomimo dużej ilości nodów nie jestem wstanie nic wysłać, nawet wiadomości prywatnej. Po przestudiowaniu dokumentacji dochodzę do następujących wniosków:
 
 **Wszędobylka telemetria, która zapycha pasmo.**
 
@@ -27,23 +27,15 @@ Urządzenia pracujące pod kontrolą systemu Meshtastic wysyłają w eter takie 
 - napięcie
 - czasami informacje o podłączonych innych urządzeniach
 
-Niepotrzebne zajmowanie miejsca, którego czasami brakuje na wysłanie wiadomości.
+Niepotrzebne zajmowanie miejsca, którego czasami brakuje na wysłanie wiadomości(2).
 
-**Możliwość modyfikowania fundamentalnych założeń**
+**Możliwość modyfikowania fundamentalnych założeń i użytkownicy**
 
-Oprogramowanie umożliwia w ławtwy sposób modyfikację HOPek (co prowadzi do komunikacji asynchronicznej, gdzie nasze wiadomości docierają, ale do nas nic nie dociera), możliwe łatwe wyłączenie Duty Cycle, problematyczne zrozumienie ról. Te elementy w połączeniu z użytkownikami, którzy nie wiedzą co robią prowadzi do spadku wydajności sieci lub nawet proponowania niezgodnych z prawem działań. Przykład:
+Oprogramowanie umożliwia w ławtwy sposób modyfikację HOPek (co prowadzi do komunikacji asynchronicznej, gdzie nasze wiadomości docierają, ale do nas nic nie dociera), możliwe łatwe wyłączenie Duty Cycle, problematyczne zrozumienie ról(1). Te elementy w połączeniu z użytkownikami, którzy nie wiedzą co robią prowadzi do spadku wydajności sieci lub nawet proponowania niezgodnych z prawem działań. Przykład:
 
 ![](./img/dlaczegoNieMeshtastic/2.webp)
 
 Wyłączenie Duty Cycle sprawi, że nasza stacja zacznie łamać prawo i możemy narazić się na konsekwencje prawne. 
-
-**Wrogość do alternatyw**
-
-Wrogie nastawienie użytkowników do innych systemów, które według nich "zapychają pasmo, bo pracują na tej samej częstotliwości. Przykład:
-
-![](./img/dlaczegoNieMeshtastic/1.webp)
-
-Przypominam, że częstowliwość 868 MHz jest ogólnodostępna, a niektórzy zachowują się jakby mieli prawa własności. 
 
 ## Zatem MeshCore jest lepszy?
 
@@ -61,3 +53,9 @@ Założenia projektowe na papierze wyglądają dużo lepiej niż w przypadku Mes
 - brak otwartego kodu źródłowego dla aplikacji mobilnej
 - słabo czytelna "dokumentacja", wiele rzeczy trzeba odkrywać samemu
 - brak możliwości logowania się do zdalnych repeaterów po kluczu publicznym
+
+## Przypisy
+
+(1). Jeśli sami twórcy meshtastic tworzą [dedykowany wpis na swoim blogu](https://meshtastic.org/blog/choosing-the-right-device-role/) omawiający kiedy stosować jakie role, to wiedz, że coś jest nie tak.
+
+(2). Tutaj [przykład telemetrii](./img/dlaczegoNieMeshtastic/3.webp). Nikomu niepotrzebne dane, oprócz właścicelowi stacji. 
