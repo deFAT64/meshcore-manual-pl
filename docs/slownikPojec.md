@@ -24,6 +24,10 @@ Urządzenie, które potrafi odbierać i wysyłać dane, ale nie retransmituje pa
 ### Noise Floor
 Suma wszystkich szumów w eterze. Im niżej, tym lepiej. 
 
+### OTA (over-the-air update)
+
+Proces aktualizacji oprogramowania układowego dostarczanego za pośrednictwem sieci bezprzewodowej. Ten termin odnosi się tylko do systemów wbudowanych.
+
 ### Presety
 Predefiniowane ustawienia radia LoRa. Więcej informacji znajdziesz [tutaj.](/zaawansowane/presety)
 
