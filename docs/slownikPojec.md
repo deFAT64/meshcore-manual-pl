@@ -1,5 +1,8 @@
 # Słownik pojęć
 
+### Bezpośrednie połączenie
+Tym połączenia, w którym jesteś z kim bezpośrednio połączony. Inaczej nazywane "Zero Hop". 
+
 ### Code Rate
 Współczynnik kodowania. Na ile bitów danych przypada bitów korekcyjnych. [Dokument techniczny.](https://www.thethingsnetwork.org/docs/lorawan/fec-and-code-rate/)
 
@@ -33,6 +36,10 @@ Predefiniowane ustawienia radia LoRa. Więcej informacji znajdziesz [tutaj.](/za
 
 ### Repeater
 Urządzenie zajmujące się retransmisją pakietów w sieci MeshCore. Stanową szkielet sieci, potrafią komunikować się ze sobą oraz rozszerzają zasięg sieci MeshCore. 
+
+### Repeater / konto gościa
+
+Specjalne konto, przy pomocy którego nie można zdalnie zarządzać urządzeniem, ale możliwe jest sprawdzenie statystyk stacji oraz sygnałów, jakie mamy w przypadku bezpośredniego połączenia. 
 
 ### Retransmisja
 Określenie przekazywania danych w celu dostarcia do miejsca docelowego.
