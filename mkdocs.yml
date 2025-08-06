@@ -17,9 +17,14 @@ nav:
     - 'Duty cycle': './zaawansowane/dutyCycle.md'
     - 'Repeatery':
       - 'Dobre praktyki przy budowaniu repeaterów': './zaawansowane/repeater/jakBudowacRepeatery.md'
+      - 'Instalacja i konfiguracja': './zaawansowane/repeater/instalacjaKonfiguracjaRepeatera.md'
+      - 'Zdalne zarządzanie repeaterem': './zaawansowane/repeater/zdalneZarzadzanieRepeaterem.md'
+  - 'Słownik pojęć': 'slownikPojec.md'
   - 'FAQ':
     - 'Dlaczego nie Meshtastic': './faq/dlaczegoNieMeshtastic.md'
 theme:
+  palette:
+    primary: custom
   name: material
   logo: assets/meshcore.png
   language: pl
@@ -33,3 +38,5 @@ plugins:
       zoomable: true
 markdown_extensions:
   - admonition
+extra_css:
+  - stylesheets/extra.css
