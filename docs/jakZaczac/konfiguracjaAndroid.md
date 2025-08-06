@@ -89,7 +89,7 @@
 
 - **Position Settings** - ustawienia GPS. Działa wtedy, jeśli nasza płytka posiada moduł GPS i jest on obsługiwany przez oprogramowanie. 
 
-- **Telemetry Settings** - [ustawienia telemetrii.](./prawidlowaKonfiguracjaTelemetrii.md)
+- **Telemetry Settings** - [ustawienia telemetrii.](./konfiguracjaTelemetrii.md)
 
 - **Import Config** - importowanie wcześniej zapisanej konfiguracji.
 
