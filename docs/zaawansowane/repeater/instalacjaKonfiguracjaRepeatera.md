@@ -39,7 +39,7 @@
 
       - **Name** - nazwa twojego repeatera. Nazwij go tak, aby osoba, która go zobaczy na liście kontaktów mniej więcej wiedziała, w jakiej części polski się znajduje. Nie nazywaj routera Wrocław ul. Ćwiartki 3/4, ponieważ przez to możliwe jest jego zlokalizowanie, a przed ewentualnymi wandalami należy się bronić. 
       - **Latitude i Longtitude** - szerokość i długość geograficzna. Jeśli już ją podajesz, nie podawaj jej dokładnej, tylko przybliżoną. Ponownie, ochrona przed wandalami. 
-      - **Guest password** - hasło dla gościa. 
+      - **Guest password** - hasło dla gościa. Konto gościa do specjalne konto, na które inni użytkownicy po wpisaniu hasła mogą się zalogować i zobaczyć statystyki danej stacji oraz parametry sygnału. Są to bardzo przydatne informacje podczas budowania sieci. 
       - **New Admin password** - hasło administratora. Służy do logowania się do repeatera jako administrator i zdalnie nim zarządzanie. Ustaw takie, aby nie dało się łatwo go odgadnąć. 
       - **Preset** - dla polski wybieramy **EU/UK (long Range)**
         
