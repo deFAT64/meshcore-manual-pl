@@ -1,41 +1,38 @@
 # Opcje konfiguracyjne
 
-!!! info
-    Poradnik opisuje tylko opcje konfiguracyjne dostępne z aplikacji mobilnej. Linia komend dostępna jest <a href="/zaawansowane/zarzadzanie/polecenia" target="_blank">tutaj.</a> 
+Pierwsza zakładka to **Status**. Wybierz przycisk **Request Status.**
 
-Pierwsza zakładka to **Status**. Wciskamy przycisk **Request Status.**
+<img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/11.webp" width="300px">
 
-    <img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/11.webp" width="300px">
+Tym sposobem uzyskasz takie dane jak sygnały, czas pracy, godzina, data, naładowanie baterii oraz dane statystyczne. Te informacje nie wyświetlają się w sposób automatyczny, dlatego, aby ograniczyć ilość danych do przesłania w eterze.
 
-    Tym sposobem uzyskamy takie dane jak sygnały, czas pracy, godzina, data, naładowanie baterii oraz dane statystyczne. Te dane nie wyświetlają się w sposób automatyczny, tylko na żądanie po to, aby ograniczyć ilość zbędnych danych do przesłania w eterze.
+<img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/12.webp" width="300px">
 
-    <img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/12.webp" width="300px">
+**Command line** to swego rodzaju konsola do zarządzania repeaterem oraz room serverem. Dostępne polecenia znajdują się na <a href="https://github.com/meshcore-dev/MeshCore/wiki/Repeater-&-Room-Server-CLI-Reference#commands-via-serial-or-remote" target="_blank">tej stronie.</a>
 
-7. **Command line** to swego rodzaju konsola do zarządzania repeaterem. Dostępne polecenia znajdują się na <a href="https://github.com/meshcore-dev/MeshCore/wiki/Repeater-&-Room-Server-CLI-Reference#commands-via-serial-or-remote" target="_blank">tej stronie.</a>
-
-    <img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/13.webp" width="300px">
+<img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/13.webp" width="300px">
  
-8. Ostatnia zakładka **Settings** to ustawienia Repeatera, które możemy zmodyfikować z poziomu aplikacji na telefon. 
+ Ostatnia zakładka **Settings** to ustawienia repeatera / room servera, które można zmodyfikować z poziomu aplikacji na telefon. 
 
-    <img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/14.webp" width="300px">
-    <img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/15.webp" width="300px">
+<img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/14.webp" width="300px">
+<img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/15.webp" width="300px">
 
-       - **Name** - nazwa repeatera. 
-       - **Public Key** - klucz publiczny
-       - **Radio settings** - ustawienia radia lora
-       - **Advert** - przycisk służący do manualnego wysłania reklamy przez repeater
-       - **Advert Intervals** - interwały wysyłania reklam przez repeater
-       - **Position** - GPS
-       - **Sync Clock** - synchronizacja zegara na repeaterze
-       - **Admin Password** - umożliwia zmianę hasła administratora
-       - **Guest Password** - umożliwia zmianę hasła gościa
-       - **Neighbours** - opcja umożliwia pokazanie stacji, z którymi repeater ma bezpośrednie połączenie
-       - **Telemetry** - wyświetla naładowanie baterii oraz napięcie płytki
-       - **Reboot** - umożliwia wykonanie restartu płytki
-       - **Version** - umożliwia poberanie wersji zainstalowanego oprogramowania MeshCore.
+   - **Name** - nazwa repeatera / room servera 
+   - **Public Key** - klucz publiczny
+   - **Radio settings** - ustawienia radia LoRa
+   - **Advert** - przycisk służący do manualnego wysłania reklamy przez repeater / room server
+   - **Advert Intervals** - interwały wysyłania reklam przez repeater / room server
+   - **Position** - GPS
+   - **Sync Clock** - synchronizacja zegara na repeaterze / room serverze
+   - **Admin Password** - umożliwia zmianę hasła administratora
+   - **Guest Password** - umożliwia zmianę hasła gościa
+   - **Neighbours** - opcja umożliwia pokazanie stacji, z którymi repeater ma bezpośrednie połączenie. Opcja nie jest dostępna dla room servera.
+   - **Telemetry** - wyświetla naładowanie baterii oraz napięcie płytki
+   - **Reboot** - umożliwia wykonanie restartu płytki
+   - **Version** - umożliwia wyświetlenie wersji zainstalowanego oprogramowania MeshCore na płytce
 
-    Niektóre pola są niewypełnione i uzupełniają się dopiero wtedy, kiedy wciśniemy tę ikonę:
+Niektóre pola są niewypełnione i uzupełniają się dopiero wtedy, kiedy wciśniesz tę ikonę:
 
-    <img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/16.webp" width="300px">
+<img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/16.webp" width="300px">
 
-    Ponownie, dane są dostępne na żądanie, aby nie generować zbędnego ruchu. 
+Ponownie, dane są dostępne na żądanie, aby nie generować zbędnego ruchu. 
