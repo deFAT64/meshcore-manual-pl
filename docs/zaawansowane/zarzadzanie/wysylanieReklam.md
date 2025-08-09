@@ -8,9 +8,9 @@ W przypadku urządzeń typu klient należy wejść do aplikacji mobilnej, wybra�
 <img src="/zaawansowane/zarzadzanie/img/wysylanieReklam/6.webp" width="300px">
 
 W przypadku repeatera lub room servera należy połączyć się z płytką po USB przy pomocy tej strony i wybrać Send Advert. 
-
-<img src="/zaawansowane/zarzadzanie/img/wysylanieReklam/1.webp" width="900px">
-
+<figure markdown="span">
+    <img src="/zaawansowane/zarzadzanie/img/wysylanieReklam/1.webp" width="900px">
+</figure>
 Wtedy to repeater / room server wyśle reklamę w eter, przez co szybciej zostanie zauważony przez już działające urządzenia. Szybkość znajdywania urządzeń jest różna - od kilku sekund do nawet kilkunastu minut. Trzeba czasami uzbroić się w cierpliwość. 
 
 Kiedy klient zobaczy nasz repeater / room server możemy przejść do zdalnego zarządzania. 
