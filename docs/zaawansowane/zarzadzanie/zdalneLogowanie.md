@@ -1,6 +1,6 @@
 # Zdalne logowanie się do repeatera i room server
 
-1. Jeśli repeater / room server jest widoczny na liście kontaktów to wybieramy go. Jeśli nie jest widoczny, to [wejdź tutaj.](/zaawansowane/zarzadzanie/wysylanieReklam)
+1. Jeśli repeater / room server jest widoczny na liście kontaktów to wybieramy go. Jeśli nie jest widoczny, to <a href="/zaawansowane/zarzadzanie/wysylanieReklam" target="_blank">wejdź tutaj.</a>
 
     <img src="/zaawansowane/zarzadzanie/img/zdalneLogowanie/7.webp" width="300px">
 
@@ -65,7 +65,7 @@ Umożliwia uzyskanie informacji jak sygnały, czas pracy, stan akumulatorów i i
 
 <img src="/zaawansowane/zarzadzanie/img/zdalneLogowanie/13.webp" width="300px">  
 
-Linia poleceń. Dostępne polecenia znajdują się na tej stronie. 
+Linia poleceń. Dostępne polecenia znajdują się na <a href="/zaawansowane/zarzadzanie/polecenia" target="_blank">tej stronie.</a> 
 
 ### Settings
 

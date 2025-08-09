@@ -1,7 +1,7 @@
 # Opcje konfiguracyjne
 
 !!! info
-    Poradnik opisuje tylko opcje konfiguracyjne dostępne z aplikacji mobilnej. Linia komend dostępna jest tutaj. 
+    Poradnik opisuje tylko opcje konfiguracyjne dostępne z aplikacji mobilnej. Linia komend dostępna jest <a href="/zaawansowane/zarzadzanie/polecenia" target="_blank">tutaj.</a> 
 
 Pierwsza zakładka to **Status**. Wciskamy przycisk **Request Status.**
 
@@ -11,7 +11,7 @@ Pierwsza zakładka to **Status**. Wciskamy przycisk **Request Status.**
 
     <img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/12.webp" width="300px">
 
-7. **Command line** to swego rodzaju konsola do zarządzania repeaterem. Dostępne polecenia znajdują się na [tej stronie.](https://github.com/meshcore-dev/MeshCore/wiki/Repeater-&-Room-Server-CLI-Reference#commands-via-serial-or-remote)
+7. **Command line** to swego rodzaju konsola do zarządzania repeaterem. Dostępne polecenia znajdują się na <a href="https://github.com/meshcore-dev/MeshCore/wiki/Repeater-&-Room-Server-CLI-Reference#commands-via-serial-or-remote" target="_blank">tej stronie.</a>
 
     <img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/13.webp" width="300px">
  
@@ -39,4 +39,3 @@ Pierwsza zakładka to **Status**. Wciskamy przycisk **Request Status.**
     <img src="/zaawansowane/repeater/img/zdalneZarzadzanieRepeaterem/16.webp" width="300px">
 
     Ponownie, dane są dostępne na żądanie, aby nie generować zbędnego ruchu. 
-

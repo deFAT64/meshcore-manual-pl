@@ -51,3 +51,7 @@ Nie nazywaj stacji A, B, 1, 2. Postaraj się nazwać stację w taki sposób, aby
 ## Dbaj o swoją stację
 
 Jeśli już umieścisz stację w terenie, to dbaj o nią. Rób przeglądy akumulatorów, **na bieżąco aktualizuj oprogramowanie**, sprawdzaj co się wokół stacji dzieje (jakaś budowla osiedla itd), ponieważ opuszczona stacja nikomu nie służy. 
+
+## Podaj hasło do konta gościa
+
+Po zalogowaniu się do konta gościa nie ma możliwości zarządzania stacją, ale jest możliwość zobaczenia parametrów urządzenia oraz wartości sygnałów. Te informacje są bardzo przydatne do stawiania nowych stacji, aby inni mogli zweryfikować, czy wybrane przez nich miejsce jest optymalne oraz jakie są sygnały w przypadku bezpośredniego połączenia. 

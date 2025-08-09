@@ -7,7 +7,7 @@
     Przed rozpoczęciem wykonywania tego poradnika zainstaluj przeglądarkę Google Chrome lub Microsoft Edge.
 
 !!! note
-    W tym poradniku na płytce zostanie zainstalowanie oprogramowanie typu "klient". Więcej o rolach i ich sposobie działania znajdziesz na [tej stronie](/zaawansowane/role).
+    W tym poradniku na płytce zostanie zainstalowanie oprogramowanie typu "klient". Więcej o rolach i ich sposobie działania znajdziesz na <a href ="/zaawansowane/role" target=_blank>tej stronie.</a>
 
 !!! danger
     **Przed podłączeniem płytki do zasilania obowiązkowo podłącz antenę! Urządzenie pracujące bez anteny może ulec uszkodzeniu!**
@@ -20,7 +20,7 @@
 
 3. Mając cały czas wciśnięty przycisk PRG, włóż kabel USB do komputera i **puść przycisk PRG po 3 sekundach.** Urządzenie uruchomi się w trybie flashowania.
 
-4. Uruchom przeglądarkę Google Chrome lub Edge i wejdź na [tę stronę internetową.](https://flasher.meshcore.co.uk/)
+4. Uruchom przeglądarkę Google Chrome lub Edge i wejdź na <a href="https://flasher.meshcore.co.uk/" target=_blank>tę stronę internetową.</a>
 
 5. Wybierz z listy urządzenie. W naszym przypadku jest to Heltec V3.
 
@@ -45,4 +45,4 @@
 
     ![](./img/flashowanieHeltecV3/5.webp)
 
-10. Po zakończeniu wgrywania oprogramowania pojawi się komunika **Hard resetting via RTS pin** i płytka uruchomi się ponownie. Po jej uruchomieniu możemy połączyć się z nią przy pomocy telefonu. [Kliknij tutaj, aby przejść dalej.](./konfiguracjaAndroid.md) 
+10. Po zakończeniu wgrywania oprogramowania pojawi się komunika **Hard resetting via RTS pin** i płytka uruchomi się ponownie. Po jej uruchomieniu możemy połączyć się z nią przy pomocy telefonu. <a href="/jakZaczac/konfiguracjaAndroid" target=_blank>Kliknij tutaj, aby przejść dalej.</a>

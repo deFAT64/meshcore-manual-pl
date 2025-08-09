@@ -2,7 +2,7 @@
 
 ## Podstawowa konfiguracja
 
-1. Na samym początku musimy wejść do sklepu Google Play i zainstalować [tę aplikację.](https://play.google.com/store/apps/details?id=com.liamcottle.meshcore.android&hl=pl)
+1. Na samym początku musimy wejść do sklepu Google Play i zainstalować <a href="https://play.google.com/store/apps/details?id=com.liamcottle.meshcore.android&hl=pl" target="_blank">tę aplikację.</a>
    
     <img src="/jakZaczac/img/konfiguracjaAndroid/1.webp" width="300px">
 
@@ -39,7 +39,7 @@
 
       - **Name** - identyfikator naszego urządzenia.
 
-      - **Public Key** - nasz klucz publiczny. Więcej o kluczach publicznych i prywatnych dowiesz się z tej strony. 
+      - **Public Key** - nasz klucz publiczny. Więcej o kluczach publicznych i prywatnych dowiesz się z <a href="/zaawansowane/kluczPublicznyIprywatny" target="_blank">tej strony</a>. 
 
       - **Latitude i Longtitude** - szerokość i długość geograficzna. Możemy ją uzupełnić wskazując lokalizację naszego urządzenia.
 
@@ -77,7 +77,7 @@
 
 ## Pozostałe opcje
 
-- **Manage Identity Key** - opcja eksportowania i importowania [klucza prywatnego.](/zaawansowane/kluczPublicznyIprywatny)
+- **Manage Identity Key** - opcja eksportowania i importowania <a href="/zaawansowane/kluczPublicznyIprywatny" target="_blank">klucza prywatnego.</a>
 
 - **Bluetooth Settings** - opcje konfiguracyjne Bluetooth. Tutaj możemy wybrać, czy kod PIN do parowania ma być losowy i wyświetlany na ekranie, czy też stały.
 
@@ -89,7 +89,7 @@
 
 - **Position Settings** - ustawienia GPS. Działa wtedy, jeśli nasza płytka posiada moduł GPS i jest on obsługiwany przez oprogramowanie. 
 
-- **Telemetry Settings** - [ustawienia telemetrii.](./konfiguracjaTelemetrii.md)
+- **Telemetry Settings** - <a href="./konfiguracjaTelemetrii.md" target="_blank">ustawienia telemetrii.</a>
 
 - **Import Config** - importowanie wcześniej zapisanej konfiguracji.
 
@@ -102,6 +102,3 @@
 - **Factory Reset** - przywracanie ustawień do wartości domyślnych. 
 
 - **Reboot** - ponowne uruchomienie płytki
-
-
-

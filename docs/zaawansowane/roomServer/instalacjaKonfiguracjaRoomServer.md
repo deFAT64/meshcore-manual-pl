@@ -7,7 +7,7 @@
     Przed rozpoczęciem wykonywania tego poradnika zainstaluj przeglądarkę Google Chrome lub Microsoft Edge.
 
 !!! info
-    Poradnik nie opisuje krok po kroku flashowania płytki, ponieważ nie różni się to drastycznie od flashowania w [przypadku roli klient.](/jakZaczac/flashowanieHeltecV3) 
+    Poradnik nie opisuje krok po kroku flashowania płytki, ponieważ nie różni się to drastycznie od flashowania w <a href="/jakZaczac/flashowanieHeltecV3" target="_blank">przypadku roli klient.</a> 
 
 !!! info
     Room server domyślnie nie działa jako repeater. Opcję repeatera można włączony z poziomu linii poleceń. 
@@ -16,13 +16,13 @@
 
 1. Podłącz płytkę i uruchom ją w tryb flashowania. Procedura wejścia w ten tryb różni się w zależności od producenta. 
 
-2. Uruchom przeglądarkę Google Chrome lub Microsoft Edge i wejdź na [tę stronę](https://flasher.meshcore.co.uk/)
+2. Uruchom przeglądarkę Google Chrome lub Microsoft Edge i wejdź na <a href="https://flasher.meshcore.co.uk/" target="_blank">tę stronę</a>
 
 3. Wybierz swoją płytkę. Następnie w kroku wybierania roli wybierz **Room Server**. 
 
     <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/7.webp" width="900px">
 
-4. Wybierz najnowszą dostępną wersję i poczekaj, aż instalacja oprogramowania zakończy się. Po zakończeniu instalacji i ponownym uruchomieniu płytki wejdź na [tę stronę internetową.](https://config.meshcore.dev/)
+4. Wybierz najnowszą dostępną wersję i poczekaj, aż instalacja oprogramowania zakończy się. Po zakończeniu instalacji i ponownym uruchomieniu płytki wejdź na <a href="https://config.meshcore.dev/" target="_blank">tę stronę internetową.</a>
 
 5. Kliknij na **Connect**, a następnie wybierz płytkę podłączoną do kompuera. 
 
@@ -50,5 +50,4 @@
 
     <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/6.webp" width="600px">
 
-
-
+7. Teraz możemy spróbować <a href="/zaawansowane/zarzadzanie/zdalneLogowanie" target="_blank">zdalne zalogować się do urządzenia.</a>

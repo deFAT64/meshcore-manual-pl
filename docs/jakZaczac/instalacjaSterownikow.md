@@ -5,9 +5,9 @@
 
 ## ESP32
 
-Przeważnie pomaga instalacja sterownika ⬇️[CP210X USB to UART bridge](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads).
+Przeważnie pomaga instalacja sterownika ⬇️<a href="https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads" target="_blank">CP210X USB to UART bridge</a>.
 
-Niektóre płytki mogą wymagać ⬇️[CH9102 Driver](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads).
+Niektóre płytki mogą wymagać ⬇️<a href="https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads" target="_blank">CH9102 Driver</a>.
 
 Po instalacji sterowników zalecane jest ponowne uruchomienie komputera.
 

@@ -7,7 +7,7 @@
     Przed rozpoczęciem wykonywania tego poradnika zainstaluj przeglądarkę Google Chrome lub Microsoft Edge.
 
 !!! note
-    W tym poradniku na płytce zostanie zainstalowanie oprogramowanie typu "klient". Więcej o rolach i ich sposobie działania znajdziesz na [tej stronie](/zaawansowane/role).
+    W tym poradniku na płytce zostanie zainstalowanie oprogramowanie typu "klient". Więcej o rolach i ich sposobie działania znajdziesz na <a href="/zaawansowane/role" target="_blank">tej stronie</a>.
 
 !!! danger
     **Przed podłączeniem płytki do zasilania obowiązkowo podłącz antenę! Urządzenie pracujące bez anteny może ulec uszkodzeniu!**
@@ -22,7 +22,7 @@
 
     ![](./img/flashowanieXiaoNrf/2.webp)
 
-4. Uruchom przeglądarkę Google Chrome lub Microsoft Edge i wejdź na [tę stronę internetową.](https://flasher.meshcore.co.uk/)
+4. Uruchom przeglądarkę Google Chrome lub Microsoft Edge i wejdź na <a href="https://flasher.meshcore.co.uk/" target="_blank">tę stronę internetową.</a>
 
 5. Wybierz z listy urządzenie. W naszym przypadku jest to **Seeed Studio Xiao nRF52 WIO**.
 
@@ -58,3 +58,4 @@
 12. Kiedy pojawis się komunikat o zakończeniu procesu flashowania, płytka uruchomi się ponownie już z zainstalowanym oprogramowaniem MeshCore. 
 
     ![](./img/flashowanieXiaoNrf/10.webp)
+
