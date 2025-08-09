@@ -17,14 +17,15 @@ nav:
       - 'Klucz publiczny i prywatny': './zaawansowane/kluczPublicznyIprywatny.md'
       - 'Routing, kanał publiczny i advert': './zaawansowane/routing.md'
       - 'Duty cycle': './zaawansowane/dutyCycle.md'
+      - 'Dobre praktyki przy budowaniu repeaterów': './zaawansowane/jakBudowacRepeatery.md'
     - 'Repeatery':
-      - 'Dobre praktyki przy budowaniu repeaterów': './zaawansowane/repeater/jakBudowacRepeatery.md'
       - 'Instalacja i pierwsza konfiguracja': './zaawansowane/repeater/instalacjaKonfiguracjaRepeatera.md'
     - 'Room Server':
       - 'Instalacja i pierwsza konfiguracja': './zaawansowane/roomServer/instalacjaKonfiguracjaRoomServer.md'
     - 'Zarządzanie urządzeniami':
       - 'Ręczne wysyłanie reklam': './zaawansowane/zarzadzanie/wysylanieReklam.md'
       - 'Zdalne logowanie do urządzeń': './zaawansowane/zarzadzanie/zdalneLogowanie.md'
+      - 'Omówienie opcji konfiguracyjnych': './zaawansowane/zarzadzanie/opcjeKonfiguracyjne.md'
       - 'Zasady konfiguracyjne': './zaawansowane/zarzadzanie/jakSkonfigurowac.md'
   - 'Słownik pojęć': 'slownikPojec.md'
   - 'FAQ':
