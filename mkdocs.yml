@@ -9,6 +9,7 @@ nav:
       - 'Heltec V3 układ ESP32': './jakZaczac/flashowanieHeltecV3.md'
       - ' Xiao nRF52840 układ nRF': './jakZaczac/flashowanieXiaoNrf.md'
     - 'Konfiguracja urządzenia z telefonu': './jakZaczac/konfiguracjaAndroid.md'
+    - 'Wysyłanie wiadomości': './jakZaczac/wysylanieWiadomosci.md'
     - 'Konfiguracja telemetrii': './jakZaczac/konfiguracjaTelemetrii.md'
   - 'Zaawansowane':
     - 'Wymagana teoria':
@@ -27,6 +28,7 @@ nav:
       - 'Zasady konfiguracyjne': './zaawansowane/zarzadzanie/jakSkonfigurowac.md'
   - 'Słownik pojęć': 'slownikPojec.md'
   - 'FAQ':
+    - 'Najczęściej zadawane pytania': './faq/faq.md'
     - 'Dlaczego nie Meshtastic': './faq/dlaczegoNieMeshtastic.md'
 theme:
   palette:
