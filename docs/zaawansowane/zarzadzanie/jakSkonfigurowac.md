@@ -10,3 +10,4 @@ Jeśli chcesz umieścić swoje urządzenie w terenie, to proponuję je skonfigur
 6. Dla repeaterów hasło dla gościa ustaw jako "hello". 
 7. Dla room servera ustaw hasło "hello" dla czatu publicznego. 
 8. Przed umieszczeniem w terenie sprawdź, czy na biurku wszystko Ci działa. 
+9. Przetestuj zasięg anteny Bluetooth i / lub Wi-Fi. Jeśli montujesz urządzenie np. na drzewie to zamontuj je w taki sposób, aby telefon / laptop złapał zasięg z anteny płytki. Jest to potrzebne do aktualizacji oprogramowania. 
