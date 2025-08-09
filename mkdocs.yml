@@ -31,6 +31,7 @@ nav:
   - 'FAQ':
     - 'Najczęściej zadawane pytania': './faq/faq.md'
     - 'Dlaczego nie Meshtastic': './faq/dlaczegoNieMeshtastic.md'
+  - 'Przydatne linki': './przydatneLinki.md'
 theme:
   palette:
     primary: custom
