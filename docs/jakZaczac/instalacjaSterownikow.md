@@ -13,4 +13,4 @@ Po instalacji sterowników zalecane jest ponowne uruchomienie komputera.
 
 ## nRF
 
-Urządzenia wykorzystujące układ nRF przeważnie nie potrzebują instalacji sterowników, ponieważ po wejściu w tryb flashowania pojawiają się one jako dysk. Następnie na ten dysk wgrywa się odpowiedni plik z oprogramowaniem. 
+Urządzenia wykorzystujące układ nRF przeważnie nie potrzebują instalacji sterowników, ponieważ po wejściu w tryb flashowania pojawiają się jako dysk. Następnie na ten dysk wgrywa się odpowiedni plik z oprogramowaniem. 

@@ -1,6 +1,6 @@
 # Wybór urządzenia
 
-Aby rozpocząć przygodę z siecią MeshCore, musisz wybrać urządzenie, przy pomocy którego będziesz mógł nadawać i odbierać sygnał. Pełną listę wspieranych urządzeń przez MeshCore (która cały czas jest aktualizowana o nowe płytki) znajdziesz <a href="https://flasher.meshcore.co.uk/" target="_blank">tutaj,</a> a ze swojej strony na początek polecam dwa moduły:
+Aby rozpocząć przygodę z siecią MeshCore, musisz wybrać urządzenie, przy pomocy którego będziesz nadawać i odbierać sygnał. Pełną listę wspieranych urządzeń przez MeshCore (która cały czas jest aktualizowana o nowe płytki) znajdziesz <a href="https://flasher.meshcore.co.uk/" target="_blank">tutaj,</a> a ze swojej strony na początek polecam dwa moduły:
 
 - Heltec V3 z modułem LoRa
 - Xiao nRF52840 + Wio-SX1262
@@ -10,7 +10,8 @@ Aby rozpocząć przygodę z siecią MeshCore, musisz wybrać urządzenie, przy p
 ## Co musisz wiedzieć przed zakupem
 
 1. Sieć MeshCore w Polsce jest aktualnie w budowie. Jeśli chcesz wiedzieć, czy będziesz miał z kim pogadać, sprawdź <a href="https://meshcore.co.uk/map.html" target="_blank">tę mapę</a>. Pokazuje ona dodane przez ludzi urządzenia, które w teorii powinny być dostępne z poziomu sieci LoRa. Pamiętaj, że mapy nie zawsze pokrywają się z rzeczywistością. Niektórzy dodadzą urządzenie, a potem zapomną je usunąć, gdy przestaną korzystać, inni zaś utrzymują swoje urządzenia w pełnej sprawności, ale nie nanoszą ich na mapę.
-2. Płytki przeważnie są zasilane mikrokontrolerami ESP32 lub nRF. ESP32 to płytki, które nadają się do miejsc, gdzie mamy stale zasilanie prądowe lub duży akumulator / powerbank i możliwość jego ładowania. Nie nadają się do tworzenia zestawów solarnych - do tego typu zadań wykorzystuje się płytki z układami nRF. 
-3. Aby zainstalować oprogramowanie na płytce trzeba uruchomić specjalny tryb flashowania. W zależności od układu i / lub producenta płytki proces ten może przebiegać inaczej. 
-4. ⚠️⚠️⚠️ **Nigdy nie uruchamiaj płytki bez podłączonej anteny!** ⚠️⚠️⚠️. Uruchomienie modułu LoRa bez podłączonej jakiejkolwiek anteny przeznaczonej do LoRy może spowodować uszkodzenie modułu radiowego. Przeważnie do płytek dołączane są małe antenki i obowiązkowo podłącz ję przed uruchomieniem zestawu. 
-5. Podłącz najpierw kabel USB do płytki, a potem do komputera w celu zasilenia urządzenia. Staraj się nie dotykać układów płytki, kiedy ona pracuje, ponieważ może to doprowadzić do zwarcia i uszkodzenia płytki. 
+2. Płytki przeważnie są zasilane mikrokontrolerami ESP32 lub nRF. ESP32 to płytki, które nadają się do miejsc, gdzie mamy stale zasilanie prądowe lub duży akumulator / powerbank i możliwość jego ładowania. Nie nadają się do tworzenia zestawów solarnych z powodu dużego zapotrzebowania na energię elektryczną - do tego typu zadań wykorzystuje się płytki z układami nRF. 
+3. Aby zainstalować oprogramowanie na płytce, trzeba uruchomić specjalny tryb flashowania. W zależności od układu i / lub producenta płytki proces ten może przebiegać inaczej. 
+4. ⚠️⚠️⚠️ **Nigdy nie uruchamiaj płytki bez podłączonej anteny!** ⚠️⚠️⚠️. Uruchomienie modułu LoRa bez podłączonej jakiejkolwiek anteny przeznaczonej do LoRy może spowodować uszkodzenie modułu radiowego. Przeważnie do płytek dołączane są małe antenki i obowiązkowo podłącz je przed uruchomieniem zestawu. 
+5. Podłącz najpierw kabel USB do płytki, a potem do komputera w celu zasilenia urządzenia. Staraj się nie dotykać układów płytki, kiedy ona pracuje, ponieważ może to doprowadzić do zwarcia i uszkodzenia płytki.
+6. 

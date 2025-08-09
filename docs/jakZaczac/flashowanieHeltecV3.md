@@ -14,7 +14,7 @@
 
 1. Podłącz kabel USB do płytki.
 
-2. Weź cienki śrubokręt, owiń czubek izolacją, wciśnij i trzymaj przycisk **PRG** na płytce.
+2. Weź cienki śrubokręt, owiń czubek izolacją, wciśnij i trzymaj przycisk **PRG** na płytce. Ostrożnie dotykaj płytkę, aby nie spowodować zwarcia, tym samym uszkodzenia płytki.
 
     ![](./img/flashowanieHeltecV3/1.webp)
 
@@ -22,7 +22,7 @@
 
 4. Uruchom przeglądarkę Google Chrome lub Edge i wejdź na <a href="https://flasher.meshcore.co.uk/" target=_blank>tę stronę internetową.</a>
 
-5. Wybierz z listy urządzenie. W naszym przypadku jest to Heltec V3.
+5. Wybierz z listy urządzenie. W tym poradniku wykorzystano Heltec V3.
 
     ![](./img/flashowanieHeltecV3/2.webp)
 
@@ -30,19 +30,19 @@
 
     ![](./img/flashowanieHeltecV3/3.webp)
 
-7. W następnym oknie zaznacz **Erase device**. Ta opcja robi swego rodzaju formatowanie, czyli kasuje wszystkie dane na płytce. Upewnij się również, czy wybrana jest najnowsza wersja oprogramowania. Kliknij na przycisk **Flash**.
+7. W następnym oknie zaznacz **Erase device**. Ta opcja robi swego rodzaju formatowanie, czyli skasuje wszystkie dane na płytce. Upewnij się również, czy wybrana jest najnowsza wersja oprogramowania. Kliknij na przycisk **Flash**.
 
     ![](./img/flashowanieHeltecV3/4.webp)
 
-8. Po kliknięciu na **Flash** pojawi się okno, w którym musimy wybrać naszą płytkę podłączoną do komputera. W moim przypadku podpisana jest ona w następujący sposób:
+8. Po kliknięciu na **Flash** pojawi się okno, w którym musisz wybrać płytkę podłączoną do komputera.
 
     ![](./img/flashowanieHeltecV3/6.webp)
 
-9. Zaznaczamy odpowiednią pozycję i klikamy na **Połącz**. Rozpocznie się procedura zapisu oprogramowania na urządzeniu.
+9. Zaznacz odpowiednią pozycję i kliknij na **Połącz**. Rozpocznie się procedura zapisu oprogramowania na urządzeniu.
 
     !!! danger
         Podczas flashowania urządzenia nie zamykaj karty z oknem instalatora oraz nie zamykaj przeglądarki. Cierpliwie poczekaj na zakończenie procesu. 
 
     ![](./img/flashowanieHeltecV3/5.webp)
 
-10. Po zakończeniu wgrywania oprogramowania pojawi się komunika **Hard resetting via RTS pin** i płytka uruchomi się ponownie. Po jej uruchomieniu możemy połączyć się z nią przy pomocy telefonu. <a href="/jakZaczac/konfiguracjaAndroid" target=_blank>Kliknij tutaj, aby przejść dalej.</a>
+10. Po zakończeniu wgrywania oprogramowania pojawi się komunika **Hard resetting via RTS pin** i płytka uruchomi się ponownie. Po jej uruchomieniu możesz połączyć się z nią przy pomocy telefonu. <a href="/jakZaczac/konfiguracjaAndroid" target=_blank>Kliknij tutaj, aby przejść dalej.</a>

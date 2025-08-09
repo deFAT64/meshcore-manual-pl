@@ -14,29 +14,29 @@
 
 1. Podłącz kabel USB do płytki, a następnie do komputera.
 
-2. Weź cienki śrubokręt, owiń czubek izolacją i wciśnij dwa razy przycisk **RST**.
+2. Weź cienki śrubokręt, owiń czubek izolacją i wciśnij dwa razy przycisk **RST**. Ostrożnie dotykaj płytkę, aby nie spowodować zwarcia, tym samym uszkodzenia płytki.
 
     ![](./img/flashowanieXiaoNrf/1.webp)
 
-3. Po chwili na naszym komputerze powinien pojawić się dodatkowy dysk.
+3. Po chwili na komputerze powinien pojawić się nowy dysk.
 
     ![](./img/flashowanieXiaoNrf/2.webp)
 
 4. Uruchom przeglądarkę Google Chrome lub Microsoft Edge i wejdź na <a href="https://flasher.meshcore.co.uk/" target="_blank">tę stronę internetową.</a>
 
-5. Wybierz z listy urządzenie. W naszym przypadku jest to **Seeed Studio Xiao nRF52 WIO**.
+5. Wybierz z listy urządzenie. W przypadku tego poradnika jest to **Seeed Studio Xiao nRF52 WIO**.
 
     ![](./img/flashowanieXiaoNrf/3.webp)
 
-6. W kolejnym kroku wybieramy **Companion Radio Bluetooth**.
+6. W kolejnym kroku wybierz **Companion Radio Bluetooth**.
 
     ![](./img/flashowanieXiaoNrf/4.webp)
 
-7. Klikamy na przycisk **Enter DFU mode**.
+7. Kliknij na przycisk **Enter DFU mode**.
 
     ![](./img/flashowanieXiaoNrf/5.webp)
 
-8. W lewym, górnym rogu powinno pojawić się okno z wpisem odnoszącym się do naszego urządzenia. Wybieramy je i kliakmy na **Połącz**.
+8. W lewym, górnym rogu powinno pojawić się okno z wyborem urządzenia, w którym to powinna widnieć podłączona płytka. Wybierz ją i kliknij na **Połącz**.
     
     ![](./img/flashowanieXiaoNrf/6.webp)
 
@@ -44,7 +44,7 @@
 
     ![](./img/flashowanieXiaoNrf/7.webp)
 
-10. Wybieramy najnowszą dostępną wersję, klikamy na **Flash**, i w oknie z lewej strony wybieramy naszą płytkę. 
+10. Wybierz najnowszą dostępną wersję, kliknij na **Flash**, i w oknie z lewej strony wybierz płytkę. 
 
     ![](./img/flashowanieXiaoNrf/8.webp)
 
@@ -55,7 +55,8 @@
 
     ![](./img/flashowanieXiaoNrf/9.webp)
 
-12. Kiedy pojawis się komunikat o zakończeniu procesu flashowania, płytka uruchomi się ponownie już z zainstalowanym oprogramowaniem MeshCore. 
+12. Kiedy pojawi się komunikat o zakończeniu procesu flashowania, płytka uruchomi się ponownie już z zainstalowanym oprogramowaniem MeshCore. 
 
     ![](./img/flashowanieXiaoNrf/10.webp)
 
+13.  <a href="/jakZaczac/konfiguracjaAndroid" target=_blank>Kliknij tutaj, aby przejść dalej.</a>
