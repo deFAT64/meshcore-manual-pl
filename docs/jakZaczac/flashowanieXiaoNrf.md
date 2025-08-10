@@ -36,7 +36,7 @@
     <figure markdown="span">
         ![](./img/flashowanieXiaoNrf/5.webp)
     </figure>
-8. W lewym, górnym rogu powinno pojawić się okno z wyborem urządzenia, w którym to powinna widnieć podłączona płytka. Wybierz ją i kliknij na **Połącz**.
+8. W lewym, górnym rogu pojawić się okno z wyborem urządzenia, w którym to powinna widnieć podłączona płytka. Wybierz ją i kliknij na **Połącz**.
     <figure markdown="span">
         ![](./img/flashowanieXiaoNrf/6.webp)
     </figure>

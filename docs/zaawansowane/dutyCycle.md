@@ -1,4 +1,4 @@
-# Duty cycle / czas antenowy
+# Duty cycle
 
 W Polsce, w technologii LoRa, na częstotliwości 868 MHz (a dokładnie to zakres częstotliwości 869.4 - 869.65 MHz) obowiązuje tzw. duty cycle, które ja nazywam "czasem antenowym".
 
@@ -15,4 +15,4 @@ Czas antenowy określa, jaki procent czasu możemy nadawać w danej jednostce cz
 
 ## Czy można to jakoś obejść?
 
-Bez modyfikacji kodu źródłowego oprogramowania MeshCore nie da się wyłączyć tej blokady. Warto pamiętać, że **niestosowanie się do tego przepisu jest naruszeniem prawa, za które mogą grozić konsekwencje finansowe lub karne.**
+Bez modyfikacji kodu źródłowego oprogramowania MeshCore nie da się wyłączyć tej blokady. Warto pamiętać, że **niestosowanie się do tego przepisu jest naruszeniem prawa, za które mogą grozić konsekwencje finansowe i/lub karne.**

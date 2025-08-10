@@ -1,12 +1,12 @@
 # Presety
 
-W przypadku sieci MeshCore możesz spotkać się z takim pojęciem jak "presety". Presety są to predefiniowane ustawienia radia, które działają i w pewien sposób standaryzują konfigurację. Głównie używa się trzech ustawień:
+W przypadku sieci MeshCore możesz spotkać się z takim pojęciem jak "presety". Presety są to predefiniowane ustawienia radia, które zostały przetestowane i działają oraz w pewien sposób standaryzują konfigurację. Głównie używa się trzech ustawień:
 
 - Long Fast
 - Medium Fast
 - Short Fast
 
-Poniżej tabelka pochodząca z dokumentacji Meshtastic prezentująca wszystkie presety wraz z konfiguracją radia:
+Poniżej tabelka pochodząca z dokumentacji Meshtastic prezentuje wszystkie presety wraz z konfiguracją radia:
 
 <figure markdown="span">
    <img src="/zaawansowane/img/presety/1.webp">

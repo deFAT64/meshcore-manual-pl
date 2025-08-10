@@ -17,15 +17,18 @@
 
 3. Wybierz swoją płytkę, następnie jako rolę kliknij **repeater**. 
     <figure markdown="span">
-        <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/1.webp" width="600px">
+        <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/1.webp" width="900px">
     </figure>
-4. Wybierz najnowszą dostępną wersję i poczekaj, aż instalacja oprogramowania zakończy się. Po zakończeniu instalacji i ponownym uruchomieniu płytki wejdź na <a href="https://config.meshcore.dev/" target="_blank">tę stronę internetową.</a>
+4. Wybierz najnowszą dostępną wersję oprogramowania i poczekaj, aż zakończy się proces instalacji. Po zakończeniu instalacji i ponownym uruchomieniu płytki wejdź na <a href="https://config.meshcore.dev/" target="_blank">tę stronę internetową.</a>
 
 5. Kliknij na **Connect**, a następnie wybierz płytkę podłączoną do komputera. 
+    <figure markdown="span">
+        <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/2.webp" width="900px">
+    </figure>
 
-    <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/2.webp" width="900px">
-
-    <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/3.webp" width="600px">
+    <figure markdown="span">
+        <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/3.webp" width="600px">
+    </figure>
 
     jeśli zobaczysz komunikat:
     <figure markdown="span">
@@ -35,17 +38,17 @@
 
 6. Jeśli nastąpi połączenie, to ukaże się taka strona:
     <figure markdown="span">
-        <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/5.webp" width="600px">
+        <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/5.webp" width="900px">
     </figure>
       - **Name** - nazwa repeatera. Nazwij go tak, aby osoba, która go zobaczy na liście kontaktów mniej więcej wiedziała, w jakiej części polski się znajduje. Nie nazywaj routera Wrocław ul. Ćwiartki 3/4, ponieważ przez to możliwe jest jego zlokalizowanie, a przed ewentualnymi wandalami należy się bronić. 
       - **Latitude i Longtitude** - szerokość i długość geograficzna. Jeśli już ją podajesz, nie podawaj jej dokładnej, tylko przybliżoną. Ponownie, ochrona przed wandalami. 
-      - **Guest password** - hasło dla gościa. Konto gościa do specjalne konto, na które inni użytkownicy po wpisaniu hasła mogą się zalogować i zobaczyć statystyki danej stacji oraz parametry sygnału. Są to bardzo przydatne informacje podczas budowania sieci. **Ustaw hasło "hello".** Z poziomu tego konta nie można administrować urządzeniem.
+      - **Guest password** - hasło dla gościa. Konto gościa to specjalne konto, na które inni użytkownicy po wpisaniu hasła mogą się zalogować i zobaczyć statystyki danej stacji oraz parametry sygnału. Są to bardzo przydatne informacje podczas budowania sieci. **Ustaw hasło "hello".** Z poziomu tego konta nie można administrować urządzeniem.
       - **New Admin password** - hasło administratora. Służy do logowania się do repeatera jako administrator i zdalnie nim zarządzanie. Ustaw takie, aby nie dało się go odgadnąć. 
       - **Preset** - dla polski wybieramy **EU/UK (long Range)**
         
       Pozostałe opcje pozostaw bez zmian. Kliknij na przycisk **Save settings**, aby zapisać zmiany na płytce. Profilaktycznie można ją jeszcze ponownie uruchomić przyciskiem **Reboot**. 
 
     <figure markdown="span">
-        <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/6.webp" width="600px">
+        <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/6.webp" width="900px">
     </figure>
 7. Teraz możesz spróbować <a href="/zaawansowane/zarzadzanie/zdalneLogowanie" target="_blank">zdalne zalogować się do urządzenia.</a>

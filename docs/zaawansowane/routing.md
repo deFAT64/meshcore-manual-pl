@@ -20,6 +20,9 @@ Po dostarczeniu wiadomości twoja płytka otrzymuje informację zwrotną o zesta
 
 Kiedy następnym razem wyślesz wiadomość do tej samej osoby, płytka nie wykona kroku 1, lecz od razu przekaże wiadomość do konkretnego repeatera, który przekaże ją dalej zgodnie z wcześniej ustaloną ścieżką.
 
+!!! note
+    Powyższe kroki działają wtedy, kiedy nie masz ze swoim odbiorcom bezpośredniego połączenia radiowego. Jeśli twoja płytka widzi bezpośrednio płytkę odbiorcy, wiadomość zostanie wysłana prosto na jego urządzenie. 
+
 ### Trasa została uszkodzona - co wtedy?
 
 Może się zdarzyć, że wcześniej zestawiona trasa przestała działać. Wówczas po trzech nieudanych próbach wysłania wiadomości system rozpoczyna routing od nowa - od kroku 1.
@@ -42,7 +45,7 @@ Advert to reklama. Co jakiś czas węzeł sieci MeshCore ogłasza się w sieci -
 
 **Rodzaje reklam:**
 
-- **Zero hop** – płytka wysyła informację o sobie wszystkim urządzeniom, które mogą się z nią komunikować bezpośrednio. 
+- **Zero hop** – płytka wysyła informację o sobie wszystkim urządzeniom, które mogą się z nią bezpośrednio skomunikować. 
 - **Flooded** – płytka rozsyła informację metodą floodingu (patrz: Krok 1 w sekcji „Zasada działania”).
 
 Reklamy są automatycznie wysyłane przez routery i room servery domyślnie co **240 minut** (można to zmienić w konfiguracji). Urządzenia działające jako klient nie posiadają tej funkcji - należy wysyłać reklamę ręcznie z poziomu aplikacji w telefonie.

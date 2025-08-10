@@ -21,7 +21,7 @@ Jeśli budujesz stację solarną, bierz pod uwagę tylko urządzenia oparte o nR
 
 Panel słoneczny ma za zadanie wytwarzać prąd ze słońca. BMS to elektroniczne urządzenie, które nie tylko ładuje ogniwa, ale również dba o to, aby nie były one przeładowane oraz nie nastąpiło głębokie rozładowanie. Znacznie wydłuża to życie ogniw. Jeśli chodzi zaś o ogniwa to często wykorzystywane są te z oznaczeniem **18650**.
 
-W kwestii budowy stacji solarnych pytaj ludzi na forach, grupach na FB, na Discord. Społeczność zawiera osoby, które mają doświadczenie w doborze sprzętu, powiedzą czego unikać, także nie bój się pytać o kwestie techniczne.
+W kwestii budowy stacji solarnych pytaj ludzi na forach, grupach na FB, na Discord. Są osoby, które mają doświadczenie w doborze sprzętu, powiedzą czego unikać, także nie bój się pytać o kwestie techniczne.
 
 ## Dobierz odpowiednią antenę
 
@@ -56,3 +56,7 @@ Jeśli już umieścisz stację w terenie, to dbaj o nią. Rób przeglądy akumul
 ## Podaj hasło do konta gościa
 
 Po zalogowaniu się do konta gościa nie ma możliwości zarządzania stacją, ale jest możliwość zobaczenia parametrów urządzenia oraz wartości sygnałów. Te informacje są bardzo przydatne do stawiania nowych stacji, aby inni mogli zweryfikować, czy wybrane przez nich miejsce jest optymalne oraz jakie są sygnały w przypadku bezpośredniego połączenia. **Dlatego po uruchomieniu stacji pochwal się na forum / grupie hasłem do konta gościa, albo ustaw je na domyślnie przyjęte "hello".**
+
+## Sprawdź, czy masz zasięg Bluetooth po zamontowaniu stacji
+
+Płytki posiadają różne anteny i różnie u nimi z zasięgiem. Po zamontowaniu stacji sprawdź, czy będziesz mógł się z nią połączyć, bo połączenie Bluetooth (czasami Wi-Fi w niektórych płytkach) jest wymagane, aby wykonać aktualizację oprogramowania. Warto to sprawdzić, aby potem nie wspinać się z laptopem np. na drzewo ;-). 

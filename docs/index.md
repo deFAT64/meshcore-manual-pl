@@ -12,17 +12,17 @@ MeshCore to wieloplatformowy system umożliwiający bezpieczną, zdecentralizowa
 
 Sercem sieci MeshCore są urządzenia zwane repeaterami, które budują i rozszerzają sieć MeshCore. Repeatery zajmują się przekazywaniem wiadomości dalej, aż do odbiorcy. Działają one na zasadzie siatki mesh, czyli każde urządzenie poszerza obszar działania sieci oraz potrafią one komunikować się między sobą. Jeśli jakiś repeater przestanie działać, pozostałe urządzenia potrafią wykryć tę usterkę i przekierować twoją wiadomość na inny obszar sieci, aby mogła ona dotrzeć do odbiorcy. Zasięg działania takiego repeatera zależy od kilku czynników. Najważniejsze to:
 
-- obszar, na którym on się znajduje
+- obszar, na którym się znajduje
 
 - moc radia, czyli urządzenia, które generuje sygnał
 
-- wzmocnienie anteny, które odpowiada za propagację sygnału.
+- wzmocnienie anteny, która odpowiada za propagację sygnału
 
-Odpowiednia antena na odpowiednim terenie potrafi nawet rozszerzyć sieć o kilkadziesiąt kilometrów. 
+Odpowiednia antena na odpowiednim terenie potrafi rozszerzyć sieć nawet o kilkadziesiąt kilometrów. 
 
 ## Kto jest odpowiedzialny za rozbudowę / rozwój sieci?
 
-Za budowę sieci odpowiadają ludzie, którzy z indywidualnych dla siebie powodów kupują odpowiedni sprzęt i montują go w na obszarze całego kraju. Nad siecią MeshCore nie stoi żadna instytucja, organizacja, która narzucałaby odgórne zasady co do budowy, działania i wykorzystania sieci. Ci ludzie grupują się w pewne społeczności, aby koordynować ewentualne swoje działania i wymieniać się wiedzą / doświadczeniem. 
+Za budowę sieci odpowiadają ludzie, którzy z indywidualnych dla siebie powodów kupują odpowiedni sprzęt i montują go na obszarze całego kraju. Nad siecią MeshCore nie stoi żadna instytucja, organizacja, która narzucałaby odgórne zasady co do budowy, działania i wykorzystania sieci. Ci ludzie grupują się w pewne społeczności, aby koordynować ewentualne swoje działania i wymieniać się wiedzą / doświadczeniem. 
 
 ## Po co taka sieć jest budowana?
 
@@ -30,13 +30,13 @@ Motywacje osób budujących / korzystających z tej sieci są różne, ale najcz
 
 - ciekawostka techniczna i chęć poznania, nauczenia się czegoś nowego
 
-- zbudowanie sieci na wypadek globalnego kataklizmu, jakim może być np. całkowity zanik energii elektrycznej, aby mieć jakikolwiek kontakt z kimkolwiek.
+- zbudowanie sieci na wypadek globalnego kataklizmu, jakim może być np. całkowity zanik energii elektrycznej, aby mieć jakikolwiek kontakt z kimkolwiek
 
-- wystąpienie klęsk żywiołowych w takim stopniu, że tradycyjne metody komunikacyjne (telefony komórkowe, internet) przestają działać
+- wystąpienie klęsk żywiołowych w takim stopniu, że tradycyjne metody komunikacyjne (telefony komórkowe, internet) przestaną działać
 
 ## Co w takiej sieci można robić? Pisać wiadomości, przeglądać strony?
 
-Sieć i oprogramowanie tworzące sieć przystosowane jest do pisania wiadomości tekstowych. Nie ma tutaj stron internetowych, sieci społecznościowych, gdyż najważniejszym zadaniem tej sieci jest komunikacja na duże odległości z innymi, i pod tym kątem jest ona optymalizowana. 
+Oprogramowanie tworzące sieć przystosowane jest do pisania wiadomości tekstowych. Nie ma tutaj stron internetowych, sieci społecznościowych, gdyż najważniejszym zadaniem tej sieci jest komunikacja na duże odległości z innymi, i pod tym kątem jest ona optymalizowana. 
 
 ## Czy trzeba coś płacić, aby korzystać z tej sieci?
 

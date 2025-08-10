@@ -25,11 +25,12 @@
 4. Wybierz najnowszą dostępną wersję i poczekaj, aż instalacja oprogramowania zakończy się. Po zakończeniu instalacji i ponownym uruchomieniu płytki wejdź na <a href="https://config.meshcore.dev/" target="_blank">tę stronę internetową.</a>
 
 5. Kliknij na **Connect**, a następnie wybierz płytkę podłączoną do komputera. 
-
-    <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/3.webp" width="900px">
-
-    <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/2.webp" width="600px">
-
+    <figure markdown="span">
+        <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/3.webp" width="900px">
+    </figure>
+    <figure markdown="span">
+        <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/2.webp" width="600px">
+    </figure>
     jeśli zobaczysz komunikat:
     <figure markdown="span">
         <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/4.webp" width="600px">
@@ -48,6 +49,6 @@
         
       Pozostałe opcje pozostawiamy bez zmian. Kliknij na przycisk **Save settings**, aby zapisać zmiany na płytce. Profilaktycznie można ją jeszcze ponownie uruchomić przyciskiem **Reboot**. 
     <figure markdown="span">
-        <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/6.webp" width="600px">
+        <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/6.webp" width="900px">
     </figure>
 7. Teraz możesz spróbować <a href="/zaawansowane/zarzadzanie/zdalneLogowanie" target="_blank">zdalne zalogować się do urządzenia.</a>

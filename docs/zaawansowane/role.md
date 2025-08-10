@@ -14,7 +14,7 @@ Klient zajmuje się wysyłaniem i odbieraniem wiadomości, ale ich nie retransmi
 
 ## Repeater
 
-Repeater zajmuje się retransmisją pakietów - odbiera dane od innych urządzeń w sieci i przekazuje je dalej, rozszerzając tym samym zasięg MeshCore. Do repeatera nie można wysłać bezpośrednio wiadomości. Po wgraniu tej roli moduł Bluetooth zostaje wyłączony, a komunikacja możliwa jest wyłącznie przez kabel USB lub za pośrednictwem innych urządzeń w sieci MeshCore. Taka konfiguracja wynika z troski o bezpieczeństwo oraz oszczędność energii.
+Repeater zajmuje się retransmisją pakietów - odbiera dane od innych urządzeń w sieci i przekazuje je dalej, rozszerzając tym samym zasięg MeshCore. Do repeatera nie można wysłać bezpośrednio wiadomości. Po wgraniu tej roli moduł Bluetooth zostanie wyłączony, a komunikacja możliwa jest wyłącznie przez kabel USB lub za pośrednictwem innych urządzeń w sieci MeshCore. Taka konfiguracja wynika z troski o bezpieczeństwo oraz oszczędność energii.
 
 ## Room server
 

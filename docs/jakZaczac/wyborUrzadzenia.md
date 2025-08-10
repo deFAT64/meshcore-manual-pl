@@ -1,6 +1,6 @@
 # Wybór urządzenia
 
-Aby rozpocząć przygodę z siecią MeshCore, musisz wybrać urządzenie, przy pomocy którego będziesz nadawać i odbierać sygnał. Pełną listę wspieranych urządzeń przez MeshCore (która cały czas jest aktualizowana o nowe płytki) znajdziesz <a href="https://flasher.meshcore.co.uk/" target="_blank">tutaj,</a> a ze swojej strony na początek polecam dwa moduły:
+Aby rozpocząć przygodę z siecią MeshCore musisz wybrać urządzenie, przy pomocy którego będziesz nadawać i odbierać sygnał. Pełną listę wspieranych urządzeń przez MeshCore (która cały czas jest aktualizowana o nowe płytki) znajdziesz <a href="https://flasher.meshcore.co.uk/" target="_blank">tutaj,</a> a ze swojej strony na początek polecam dwa moduły:
 
 - Heltec V3 z modułem LoRa
 - Xiao nRF52840 + Wio-SX1262
@@ -14,4 +14,3 @@ Aby rozpocząć przygodę z siecią MeshCore, musisz wybrać urządzenie, przy p
 3. Aby zainstalować oprogramowanie na płytce, trzeba uruchomić specjalny tryb flashowania. W zależności od układu i / lub producenta płytki proces ten może przebiegać inaczej. 
 4. ⚠️⚠️⚠️ **Nigdy nie uruchamiaj płytki bez podłączonej anteny!** ⚠️⚠️⚠️. Uruchomienie modułu LoRa bez podłączonej jakiejkolwiek anteny przeznaczonej do LoRy może spowodować uszkodzenie modułu radiowego. Przeważnie do płytek dołączane są małe antenki i obowiązkowo podłącz je przed uruchomieniem zestawu. 
 5. Podłącz najpierw kabel USB do płytki, a potem do komputera w celu zasilenia urządzenia. Staraj się nie dotykać układów płytki, kiedy ona pracuje, ponieważ może to doprowadzić do zwarcia i uszkodzenia płytki.
-6. 

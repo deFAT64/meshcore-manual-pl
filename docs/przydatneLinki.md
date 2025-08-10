@@ -9,6 +9,7 @@
 - <a href="https://meshcore.co.uk/apps.html" target=_blank>Aplikacje do pobrania</a>
 - <a href="https://meshcore.co.uk/map.html" target=_blank>Mapa z z urządzeniami</a>
 - <a href="https://github.com/meshcore-dev/MeshCore" target=_blank>Kod źrodłowy MeshCore</a>
+- <a href="https://github.com/meshcore-dev/MeshCore/wiki/Repeater-&-Room-Server-CLI-Reference" target=_blank>Polecenia linii komend dla repeaterów i room server.</a>
 
 ## Mapy i symulatory
 

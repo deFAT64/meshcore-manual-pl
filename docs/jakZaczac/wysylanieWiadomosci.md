@@ -1,6 +1,6 @@
 # Wysyłanie wiadomości
 
-Aby wysłać komuś wiadomość, musisz posiadać daną osobę w kontaktach, czyli widzieć jego płytkę. Nowe urządzenie oprócz prawidłowej konfiguracji należy również <a href="/zaawansowane/zarzadzanie/wysyalnieReklam"> rozgłosić w sieci MeshCore.</a> Jeśli w twojej okolicy są inni użytkownicy, to powinni oni pojawić się w ciągu kilku sekund do kilkunastu minut na liście kontaktów.
+Aby wysłać komuś wiadomość, musisz posiadać daną osobę w kontaktach, czyli widzieć jego płytkę. Nowe urządzenie oprócz prawidłowej konfiguracji należy również <a href="/zaawansowane/zarzadzanie/wysylanieReklam" target=_blank> rozgłosić w sieci MeshCore.</a> Jeśli w twojej okolicy są inni użytkownicy, to powinni oni pojawić się w ciągu kilku sekund do kilkunastu minut na liście kontaktów.
 
 1. Jeśli jakieś urządzenie zostanie znalezione, pojawi się na liście kontaktów. 
     <figure markdown="span">
