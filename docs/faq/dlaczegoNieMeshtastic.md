@@ -13,7 +13,7 @@ Założenie było więc takie, aby mieć awaryjny system komunikacyjny. Szukają
 
 ## Co z tego wyszło?
 
-Meshtastic nie działa stabilnie, szczególnie jak jesteś na skraju sieci. W niektórych miejscach jestem w stanie normalnie rozmawiać, w niektórych pomimo dużej ilości nodów nic nie mogę wysłać. Po przestudiowaniu dokumentacji dochodzę do następujących wniosków:
+Meshtastic nie działa stabilnie. W niektórych miejscach jestem w stanie normalnie rozmawiać, w niektórych pomimo dużej ilości nodów nic nie mogę wysłać. Po przestudiowaniu dokumentacji dochodzę do następujących wniosków:
 
 **Wszędobylska telemetria, która zapycha pasmo.**
 
@@ -29,11 +29,9 @@ Urządzenia pracujące pod kontrolą systemu Meshtastic wysyłają w eter takie 
 
 Niepotrzebne zajmowanie miejsca, którego czasami brakuje na wysłanie wiadomości(2).
 
-**Możliwość modyfikowania fundamentalnych założeń i niewiedza użytkowników**
+**Zmiana fundamentalnych założeń, niewiedza użytkowników**
 
-Oprogramowanie umożliwia w łatwy sposób modyfikację HOPek (co prowadzi do komunikacji asynchronicznej, gdzie nasze wiadomości docierają, ale do nas nic nie dociera), wyłączenie Duty Cycle, problematyczne zrozumienie ról(1). Te elementy w połączeniu z użytkownikami, którzy nie wiedzą, co robią, prowadzi do spadku wydajności sieci. Dodatkowo, zamiast szukać rozwiązania problemu, proponowane są rozwiązania, które go jeszcze bardziej pogłębiają i… łamią prawo. 
-
-<img src="/faq/img/dlaczegoNieMeshtastic/2.webp" width="900px">
+Oprogramowanie umożliwia w łatwy sposób modyfikację HOPek (co prowadzi do komunikacji asynchronicznej, gdzie nasze wiadomości docierają, ale do nas nic nie dociera), wyłączenie Duty Cycle, problematyczne zrozumienie ról(1). Te elementy w połączeniu z użytkownikami, którzy nie wiedzą, co robią, prowadzi do spadku wydajności sieci.
 
 ## Zatem MeshCore jest lepszy?
 
