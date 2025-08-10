@@ -33,6 +33,7 @@ nav:
     - 'Najczęściej zadawane pytania': './faq/faq.md'
     - 'Dlaczego nie Meshtastic': './faq/dlaczegoNieMeshtastic.md'
   - 'Przydatne linki': './przydatneLinki.md'
+  - Projekt TK3K: './projektTK3K.md'
   - 'Wsparcie': './wsparcie.md'
 theme:
   palette:
