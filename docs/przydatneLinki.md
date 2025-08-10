@@ -14,3 +14,12 @@
 
 - <a href="https://site.meshtastic.org/" target=_blank>Symulator zasięgu. Pochodzi od Meshtastic, ale częstotliwość jest ta sama.</a>
 - <a href="https://en-gb.topographic-map.com/map-wmv51/Ukraine/" target=_blank>Mapa wysokościowa terenu</a>
+
+## Narzędzia zaawansowane
+
+- <a href="https://www.semtech.com/design-support/lora-calculator" target=_blank>Kalkulator radia LoRa.</a>
+
+## Społeczności
+
+- <a href="https://discord.gg/QT7TzQGJaS" target=_blank>Oficjalny serwer Discord projektu MeshCore</a>
+- <a href="https://www.facebook.com/groups/meshcorepolska" target=_blank>Grupa MeshCore Polska na FB</a>
