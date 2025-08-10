@@ -13,10 +13,10 @@
         Nie paruj telefonu z płytką przy pomocy parowania Bluetooth wbudowanego w system Android, gdyż tak sparowane urządzenie nie połączy się z programem MeshCore. Paruj zawsze przy pomocy aplikacji. 
 
 3. Po uruchomieniu kliknij na przycisk **Connect**. Program po chwili powinien wykryć płytkę.
-
-    <img src="/jakZaczac/img/konfiguracjaAndroid/2.webp" width="300px">
-    <img src="/jakZaczac/img/konfiguracjaAndroid/3.webp" width="300px">
-
+    <figure markdown="span">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/2.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/3.webp" width="300px">
+    </figure>
 4. Kliknij na widoczną pozycję, po czym pojawi się żądanie parowania i prośba o podanie kodu.
     <figure markdown="span">
         <img src="/jakZaczac/img/konfiguracjaAndroid/4.webp" width="300px">
