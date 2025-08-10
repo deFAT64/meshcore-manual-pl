@@ -7,11 +7,11 @@ Aby inne stacje zauważyły nowo uruchomione urządzenie, musi ono rozgłosić s
 W przypadku urządzeń typu klient należy wejść do aplikacji mobilnej, wybrać zakładkę **Contacts**, następnie **ikonę oznaczoną numerem 2** i z menu **Advert - Flood Routed.**.
 
 <figure markdown="span">
-    <img src="/zaawansowane/zarzadzanie/img/wysylanieReklam/5.webp" width="300px">
+    <img src="/zaawansowane/zarzadzanie/img/wysylanieReklam/5.webp" width="600px">
 </figure>
 
 <figure markdown="span">
-    <img src="/zaawansowane/zarzadzanie/img/wysylanieReklam/6.webp" width="300px">
+    <img src="/zaawansowane/zarzadzanie/img/wysylanieReklam/6.webp" width="600px">
 </figure>
 
 ## Urządzenia typu "repeater" oraz "room server"

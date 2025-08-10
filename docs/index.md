@@ -2,7 +2,7 @@
 
 MeshCore to wieloplatformowy system umożliwiający bezpieczną, zdecentralizowaną komunikację z wykorzystaniem sprzętu radiowego LoRa, zasilania off-grid oraz do działania nie wymaga udziału sieci komórkowych oraz internetowych.
 
-- **bezpieczna** - komunikacja jest szyfrowana, nikt się nie dowie co piszesz
+- **bezpieczna** - komunikacja jest szyfrowana na podstawie klucza prywatnego i publicznego
 
 - **zdecentralizowana** - do wymiany danych nie jest wymagana sieć Internet oraz sieć komórkowa. Wiadomości są wysyłane z wykorzystaniem medium radiowego, dokładnie technologii LoRa. Struktura urządzeń przekazujących wiadomości buduje sieć, która jest całkowicie niezależna od działania sieci komórkowych czy sieci Internet, oraz jest odporna na awarie wewnątrz swojej sieci.
 
@@ -36,7 +36,7 @@ Motywacje osób budujących / korzystających z tej sieci są różne, ale najcz
 
 ## Co w takiej sieci można robić? Pisać wiadomości, przeglądać strony?
 
-Oprogramowanie tworzące sieć przystosowane jest do pisania wiadomości tekstowych. Nie ma tutaj stron internetowych, sieci społecznościowych, gdyż najważniejszym zadaniem tej sieci jest komunikacja na duże odległości z innymi, i pod tym kątem jest ona optymalizowana. 
+Oprogramowanie tworzące sieć przystosowane jest do pisania wiadomości tekstowych. Nie ma tutaj stron internetowych, sieci społecznościowych, gdyż najważniejszym zadaniem tej sieci jest komunikacja na duże odległości z innymi i pod tym kątem jest ona optymalizowana. 
 
 ## Czy trzeba coś płacić, aby korzystać z tej sieci?
 

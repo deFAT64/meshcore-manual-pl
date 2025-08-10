@@ -1,6 +1,6 @@
 # Duty cycle
 
-W Polsce, w technologii LoRa, na częstotliwości 868 MHz (a dokładnie to zakres częstotliwości 869.4 - 869.65 MHz) obowiązuje tzw. duty cycle, które ja nazywam "czasem antenowym".
+W Polsce, w technologii LoRa, na częstotliwości 868 MHz (a dokładnie to 869.525 MHz) obowiązuje tzw. duty cycle, które ja nazywam "czasem antenowym".
 
 Z racji tego, że pasmo:
 

@@ -1,4 +1,4 @@
-# Konfiguracja urządzeń na produkcji
+# Zasady konfiguracji urządzeń
 
 Jeśli chcesz umieścić swoje urządzenie w terenie, to proponuję je skonfigurować w następujący sposób:
 

@@ -35,7 +35,7 @@ W związku z tym poszukuję ludzi, którzy chcą budować alternatywną łączno
 
     Staramy się budować takie stacje, aby wytrzymały jak najdłużej bez stałego dostępu do zasilania. Ładowanie będzie odbywać się przy pomocy paneli solarnych. 
 
-5. Wzajemna edukacja i dobra zabawa.
+5. Wzajemna edukacja, pomoc i dobra zabawa.
 
     Dobrze jest mieć wokół siebie ludzi, których jarają te same rzeczy.
 
@@ -45,7 +45,7 @@ A bo tak ;-).
 
 ## Gdzie się zgłosić?
 
-Napisz maila na tk3k[małpiszon]lorameshcore.pl
+Napisz maila na kontakt[małpiszon]lorameshcore.pl
 
 ## Nie spełniam wymagań, ale chcę cię jakoś wesprzeć w działaniach
 

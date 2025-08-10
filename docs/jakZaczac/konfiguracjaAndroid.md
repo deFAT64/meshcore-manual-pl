@@ -17,19 +17,19 @@
 
 3. Po uruchomieniu kliknij na przycisk **Connect**. Program po chwili powinien wykryć płytkę.
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/2.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/2.webp" width="600px">
     </figure>
 
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/3.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/3.webp" width="600px">
     </figure>
 4. Wybierz widoiczną pozycję. Po chwili pojawi się żądanie parowania i prośba o podanie kodu.
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/4.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/4.webp" width="600px">
     </figure>
 
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/5.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/5.webp" width="600px">
     </figure>
 
     !!! note
@@ -37,15 +37,15 @@
 
 5. Po prawidłowym wpisaniu kodu połączysz się z płytką. Będzie o tym świadczyć widoczność identyfikatora w lewym, górnym rogu.
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/6.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/6.webp" width="600px">
     </figure>
 6. Kliknij na ikonę koła zębatego.
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/7.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/7.webp" width="600px">
     </figure>
 7. Przed oczami pojawi się panel konfiguracyjny urządzenia. Omówmy teraz najważniejsze aspekty konfiguracji radia LoRa:
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/8.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/8.webp" width="600px">
     </figure>
       - **Name** - identyfikator urządzenia. Jak podpiszesz urządzenie, w taki sposób będziesz się przedstawiał innym użytkownikom sieci.
 
@@ -67,49 +67,49 @@
 
 8.  Jak zatem prawidłowo ustawić urządzenie? Kliknij na symbol trzech kropek...
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/9.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/9.webp" width="600px">
     </figure>
-    ...i wybierz **Sugessted Radio Settings**.
+    ...i wybierz **Suggested Radio Settings**.
 
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/10.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/10.webp" width="600px">
     </figure>
 9.  W nowym oknie wybierz **EU/UK (Long Range)**.
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/11.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/11.webp" width="600px">
     </figure>
 10. Po wybraniu preferowanych ustawień poszczególne pola zostaną automatycznie uzupełnione. Aby zapisać zmiany na płytce, wybierz ikonę **Accept.**
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/12.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/12.webp" width="600px">
     </figure>
 11. Zielony komunikat na dole ekranu informuje, że zmiany zostały zapisane prawidłowo. 
     <figure markdown="span">
-        <img src="/jakZaczac/img/konfiguracjaAndroid/13.webp" width="300px">
+        <img src="/jakZaczac/img/konfiguracjaAndroid/13.webp" width="600px">
     </figure>
 ## Pozostałe opcje
 
-- **Manage Identity Key** - opcja eksportowania i importowania <a href="/zaawansowane/kluczPublicznyIprywatny" target="_blank">klucza prywatnego</a>
+    - **Manage Identity Key** - opcja eksportowania i importowania <a href="/zaawansowane/kluczPublicznyIprywatny" target="_blank">klucza prywatnego</a>
 
-- **Bluetooth Settings** - opcje konfiguracyjne Bluetooth. Tutaj możesz wybrać, czy kod PIN do parowania ma być losowy i wyświetlany na ekranie, czy też stały.
+    - **Bluetooth Settings** - opcje konfiguracyjne Bluetooth. Tutaj możesz wybrać, czy kod PIN do parowania ma być losowy i wyświetlany na ekranie, czy też stały.
 
-- **Contact Settings** - opcje konfiguracyjne kontaktów
+    - **Contact Settings** - opcje konfiguracyjne kontaktów
 
-- **Message Settings** - opcje konfiguracyjne wiadomości. Jeśli nie wiesz, co robisz, pozostaw domyślne ustawienia
+    - **Message Settings** - opcje konfiguracyjne wiadomości. Jeśli nie wiesz, co robisz, pozostaw domyślne ustawienia
 
-- **Notification Settings** - ustawienia powiadomień generowanych przez aplikację
+    - **Notification Settings** - ustawienia powiadomień generowanych przez aplikację
 
-- **Position Settings** - ustawienia GPS. Działa wtedy, jeśli płytka posiada moduł GPS i jest on obsługiwany przez oprogramowanie. 
+    - **Position Settings** - ustawienia GPS. Działa wtedy, jeśli płytka posiada moduł GPS i jest on obsługiwany przez oprogramowanie. 
 
-- **Telemetry Settings** - <a href="./konfiguracjaTelemetrii.md" target="_blank">ustawienia telemetrii</a>
+    - **Telemetry Settings** - ustawienia telemetrii
 
-- **Import Config** - importowanie wcześniej zapisanej konfiguracji
+    - **Import Config** - importowanie wcześniej zapisanej konfiguracji
 
-- **Export Config** - eksportowanie konfiguracji z płytki na telefon. Po prostu kopia zapasowa.
+    - **Export Config** - eksportowanie konfiguracji z płytki na telefon. Po prostu kopia zapasowa.
 
-- **Purge Contacts** - usuwa wszystkie znalezione kontakty z telefonu i z płytki
+    - **Purge Contacts** - usuwa wszystkie znalezione kontakty z telefonu i z płytki
 
-- **Debug Logs** - konsola debugowania
+    - **Debug Logs** - konsola debugowania
 
-- **Factory Reset** - przywracanie ustawień do wartości domyślnych
+    - **Factory Reset** - przywracanie ustawień do wartości domyślnych
 
-- **Reboot** - ponowne uruchomienie płytki
+    - **Reboot** - ponowne uruchomienie płytki

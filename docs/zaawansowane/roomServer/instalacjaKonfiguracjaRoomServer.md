@@ -39,13 +39,13 @@
 
 6. Jeśli nastąpi połączenie, to ukaże się taka strona:
     <figure markdown="span">
-        <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/5.webp" width="600px">
+        <img src="/zaawansowane/roomServer/img/instalacjaKonfiguracjaRoomServer/5.webp" width="900px">
     </figure>
       - **Name** - nazwa twojego room servera. Nazwij go tak, aby osoba, która go zobaczy na liście kontaktów mniej więcej wiedziała, w jakiej części polski się znajduje. Nie nazywaj routera Wrocław ul. Ćwiartki 3/4, ponieważ przez to możliwe jest jego zlokalizowanie, a przed ewentualnymi wandalami należy się bronić.
       - **Latitude i Longtitude** - szerokość i długość geograficzna. Jeśli już ją podajesz, nie podawaj dokładnej, tylko przybliżoną. Ponownie, ochrona przed wandalami. 
       - **Guest password** - hasło do pokoju ogólnego. **Domyślnie jest to "hello"**. Do tego pokoju każdy będzie mógł się zalogować po wpisaniu hasła i coś napisać. 
       - **New Admin password** - hasło administratora. Służy do logowania się jako administrator i do zdalnego zarządzania. Ustaw takie, aby nie dało się go odgadnąć. 
-      - **Preset** - dla polski wybieramy **EU/UK (long Range)**
+      - **Preset** - dla polski wybieramy **EU/UK (Long Range)**
         
       Pozostałe opcje pozostawiamy bez zmian. Kliknij na przycisk **Save settings**, aby zapisać zmiany na płytce. Profilaktycznie można ją jeszcze ponownie uruchomić przyciskiem **Reboot**. 
     <figure markdown="span">

@@ -1,4 +1,4 @@
-# Dobre praktyki przy budowaniu repeaterów?
+# Dobre praktyki przy budowaniu repeaterów
 
 !!! note
     Wychodzę z założenia, że jeżeli już coś robić, to robić to profesjonalnie, dlatego też ta strona jest napisana w takim stylu, w jakim jest. 

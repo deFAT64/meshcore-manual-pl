@@ -32,7 +32,7 @@
 
     jeśli zobaczysz komunikat:
     <figure markdown="span">
-        <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/4.webp" width="600px">
+        <img src="/zaawansowane/repeater/img/instalacjaKonfiguracjaRepeatera/4.webp" width="900px">
     </figure>
     to odłącz zasilanie płytki i podłącz ponownie. 
 
@@ -44,7 +44,7 @@
       - **Latitude i Longtitude** - szerokość i długość geograficzna. Jeśli już ją podajesz, nie podawaj jej dokładnej, tylko przybliżoną. Ponownie, ochrona przed wandalami. 
       - **Guest password** - hasło dla gościa. Konto gościa to specjalne konto, na które inni użytkownicy po wpisaniu hasła mogą się zalogować i zobaczyć statystyki danej stacji oraz parametry sygnału. Są to bardzo przydatne informacje podczas budowania sieci. **Ustaw hasło "hello".** Z poziomu tego konta nie można administrować urządzeniem.
       - **New Admin password** - hasło administratora. Służy do logowania się do repeatera jako administrator i zdalnie nim zarządzanie. Ustaw takie, aby nie dało się go odgadnąć. 
-      - **Preset** - dla polski wybieramy **EU/UK (long Range)**
+      - **Preset** - dla polski wybieramy **EU/UK (Long Range)**
         
       Pozostałe opcje pozostaw bez zmian. Kliknij na przycisk **Save settings**, aby zapisać zmiany na płytce. Profilaktycznie można ją jeszcze ponownie uruchomić przyciskiem **Reboot**. 
 

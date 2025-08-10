@@ -11,7 +11,6 @@ nav:
     - 'Konfiguracja urządzenia z telefonu':
       - 'Android': './jakZaczac/konfiguracjaAndroid.md'
     - 'Wysyłanie wiadomości': './jakZaczac/wysylanieWiadomosci.md'
-    - 'Konfiguracja telemetrii': './jakZaczac/konfiguracjaTelemetrii.md'
   - 'Zaawansowane':
     - 'Wymagana teoria':
       - 'Role': './zaawansowane/role.md'
@@ -25,9 +24,9 @@ nav:
     - 'Room Server':
       - 'Instalacja i pierwsza konfiguracja': './zaawansowane/roomServer/instalacjaKonfiguracjaRoomServer.md'
     - 'Zarządzanie urządzeniami':
-      - 'Ręczne wysyłanie reklam': './zaawansowane/zarzadzanie/wysylanieReklam.md'
+      - 'Manualne wysyłanie reklam': './zaawansowane/zarzadzanie/wysylanieReklam.md'
       - 'Zdalne logowanie i opcje konfiguracyjne': './zaawansowane/zarzadzanie/zdalneLogowanie.md'
-      - 'Zasady konfiguracyjne': './zaawansowane/zarzadzanie/jakSkonfigurowac.md'
+      - 'Zasady konfiguracji urządzeń': './zaawansowane/zarzadzanie/zasadyKonfiguracjiUrzadzen.md'
   - 'Słownik pojęć': 'slownikPojec.md'
   - 'FAQ':
     - 'Najczęściej zadawane pytania': './faq/faq.md'
@@ -35,6 +34,7 @@ nav:
   - 'Przydatne linki': './przydatneLinki.md'
   - Projekt TK3K: './projektTK3K.md'
   - 'Wsparcie': './wsparcie.md'
+  - 'Kontakt': './kontakt.md'
 theme:
   palette:
     primary: custom

@@ -4,12 +4,12 @@ Aby wysłać komuś wiadomość, musisz posiadać daną osobę w kontaktach, czy
 
 1. Jeśli jakieś urządzenie zostanie znalezione, pojawi się na liście kontaktów. 
     <figure markdown="span">
-        <img src="/jakZaczac/img/wysylanieWiadomosci/1.webp" width="300px">
+        <img src="/jakZaczac/img/wysylanieWiadomosci/1.webp" width="600px">
     </figure>
 
 2. Chcąc napisać wiadomość wybierz to urządzenie - na ekranie powinno pojawić się okno czatu. 
     <figure markdown="span">
-        <img src="/jakZaczac/img/wysylanieWiadomosci/2.webp" width="300px">
+        <img src="/jakZaczac/img/wysylanieWiadomosci/2.webp" width="600px">
     </figure>
 
 3. Napisz wiadomość i wyślij. Obsługa aplikacji nie różni się niczym od tradycyjnego komunikatora. Gdy wiadomość dotrze do adresata, otrzyma on powiadomienie na swoim urządzeniu mobilnym. 

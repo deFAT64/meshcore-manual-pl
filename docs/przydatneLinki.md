@@ -7,9 +7,9 @@
 - <a href="https://flasher.meshcore.co.uk/" target=_blank>Flasher</a>
 - <a href="https://config.meshcore.dev/" target=_blank>Konfigurator repeatera / room server</a>
 - <a href="https://meshcore.co.uk/apps.html" target=_blank>Aplikacje do pobrania</a>
-- <a href="https://meshcore.co.uk/map.html" target=_blank>Mapa z z urządzeniami</a>
+- <a href="https://meshcore.co.uk/map.html" target=_blank>Mapa z urządzeniami</a>
 - <a href="https://github.com/meshcore-dev/MeshCore" target=_blank>Kod źrodłowy MeshCore</a>
-- <a href="https://github.com/meshcore-dev/MeshCore/wiki/Repeater-&-Room-Server-CLI-Reference" target=_blank>Polecenia linii komend dla repeaterów i room server.</a>
+- <a href="https://github.com/meshcore-dev/MeshCore/wiki/Repeater-&-Room-Server-CLI-Reference" target=_blank>Polecenia linii komend dla repeaterów i room server</a>
 
 ## Mapy i symulatory
 
@@ -18,7 +18,7 @@
 
 ## Narzędzia zaawansowane
 
-- <a href="https://www.semtech.com/design-support/lora-calculator" target=_blank>Kalkulator radia LoRa.</a>
+- <a href="https://www.semtech.com/design-support/lora-calculator" target=_blank>Kalkulator radia LoRa</a>
 
 ## Społeczności
 
