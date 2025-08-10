@@ -1,4 +1,4 @@
-site_name: MeshCore Manual PL
+site_name: LoRa MeshCore
 site_url: https://mydomain.org/mysite
 nav:
   - 'Co to jest MeshCore?': 'index.md'
@@ -7,8 +7,9 @@ nav:
     - 'Instalacja sterowników': './jakZaczac/instalacjaSterownikow.md'
     - 'Flashowanie urzadzenia':
       - 'Heltec V3 układ ESP32': './jakZaczac/flashowanieHeltecV3.md'
-      - ' Xiao nRF52840 układ nRF': './jakZaczac/flashowanieXiaoNrf.md'
-    - 'Konfiguracja urządzenia z telefonu': './jakZaczac/konfiguracjaAndroid.md'
+      - 'Xiao nRF52840 układ nRF': './jakZaczac/flashowanieXiaoNrf.md'
+    - 'Konfiguracja urządzenia z telefonu':
+      - 'Android': './jakZaczac/konfiguracjaAndroid.md'
     - 'Wysyłanie wiadomości': './jakZaczac/wysylanieWiadomosci.md'
     - 'Konfiguracja telemetrii': './jakZaczac/konfiguracjaTelemetrii.md'
   - 'Zaawansowane':
@@ -17,6 +18,7 @@ nav:
       - 'Klucz publiczny i prywatny': './zaawansowane/kluczPublicznyIprywatny.md'
       - 'Routing, kanał publiczny i advert': './zaawansowane/routing.md'
       - 'Duty cycle': './zaawansowane/dutyCycle.md'
+      - 'Presety': './zaawansowane/presety.md'
       - 'Dobre praktyki przy budowaniu repeaterów': './zaawansowane/jakBudowacRepeatery.md'
     - 'Repeatery':
       - 'Instalacja i pierwsza konfiguracja': './zaawansowane/repeater/instalacjaKonfiguracjaRepeatera.md'
@@ -24,14 +26,14 @@ nav:
       - 'Instalacja i pierwsza konfiguracja': './zaawansowane/roomServer/instalacjaKonfiguracjaRoomServer.md'
     - 'Zarządzanie urządzeniami':
       - 'Ręczne wysyłanie reklam': './zaawansowane/zarzadzanie/wysylanieReklam.md'
-      - 'Zdalne logowanie do urządzeń': './zaawansowane/zarzadzanie/zdalneLogowanie.md'
-      - 'Omówienie opcji konfiguracyjnych': './zaawansowane/zarzadzanie/opcjeKonfiguracyjne.md'
+      - 'Zdalne logowanie i opcje konfiguracyjne': './zaawansowane/zarzadzanie/zdalneLogowanie.md'
       - 'Zasady konfiguracyjne': './zaawansowane/zarzadzanie/jakSkonfigurowac.md'
   - 'Słownik pojęć': 'slownikPojec.md'
   - 'FAQ':
     - 'Najczęściej zadawane pytania': './faq/faq.md'
     - 'Dlaczego nie Meshtastic': './faq/dlaczegoNieMeshtastic.md'
   - 'Przydatne linki': './przydatneLinki.md'
+  - 'Wsparcie': './wsparcie.md'
 theme:
   palette:
     primary: custom
@@ -50,3 +52,6 @@ markdown_extensions:
   - admonition
 extra_css:
   - stylesheets/extra.css
+repo_url: https://github.com/deFAT64/meshcore-manual-pl
+copyright: >
+  <a href="https://github.com/deFAT64/meshcore-manual-pl?tab=License-1-ov-file">Licencja witryny.</a> // Strona jest hostowana w serwisie radpidc.pl. <a href="https://rapiddc.pl/polityka-prywatnosci">Ich polityka prywatności.</a>
