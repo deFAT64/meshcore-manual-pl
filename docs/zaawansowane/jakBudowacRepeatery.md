@@ -59,4 +59,4 @@ Po zalogowaniu się do konta gościa nie ma możliwości zarządzania stacją, a
 
 ## Sprawdź, czy masz zasięg Bluetooth po zamontowaniu stacji
 
-Płytki posiadają różne anteny i różnie u nimi z zasięgiem. Po zamontowaniu stacji sprawdź, czy będziesz mógł się z nią połączyć, bo połączenie Bluetooth (czasami Wi-Fi w niektórych płytkach) jest wymagane, aby wykonać aktualizację oprogramowania. Warto to sprawdzić, aby potem nie wspinać się z laptopem np. na drzewo ;-). 
+Płytki posiadają różne anteny i różnie u nich z zasięgiem. Po zamontowaniu stacji sprawdź, czy będziesz mógł się z nią połączyć, bo połączenie Bluetooth (czasami Wi-Fi w niektórych płytkach) jest wymagane, aby wykonać aktualizację oprogramowania. Warto to sprawdzić, aby potem nie wspinać się z laptopem np. na drzewo ;-). 

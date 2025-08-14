@@ -1,5 +1,5 @@
 site_name: LoRa MeshCore
-site_url: https://mydomain.org/mysite
+site_url: https://lorameshcore.pl/
 nav:
   - 'Co to jest MeshCore?': 'index.md'
   - 'Jak zacząć?':
