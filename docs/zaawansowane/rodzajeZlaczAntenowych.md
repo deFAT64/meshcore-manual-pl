@@ -16,6 +16,9 @@
 </figure>
 
 ## U.FL
+
+Czasami mogą pojawić się oznaczenia **IPEX** lub **IPX**. 
+
 <figure markdown="span">
     <img src="\zaawansowane\img\rodzajeZlaczDoAnten\UFL\UFL.webp" width="300px">
 </figure>
