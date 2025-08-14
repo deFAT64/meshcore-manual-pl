@@ -18,6 +18,7 @@ nav:
       - 'Routing, kanał publiczny i advert': './zaawansowane/routing.md'
       - 'Duty cycle': './zaawansowane/dutyCycle.md'
       - 'Presety': './zaawansowane/presety.md'
+      - 'Rodzaje złącz antenowych': './zaawansowane/rodzajeZlaczAntenowych.md'
       - 'Dobre praktyki przy budowaniu repeaterów': './zaawansowane/jakBudowacRepeatery.md'
     - 'Repeatery':
       - 'Instalacja i pierwsza konfiguracja': './zaawansowane/repeater/instalacjaKonfiguracjaRepeatera.md'
@@ -55,4 +56,4 @@ extra_css:
   - stylesheets/extra.css
 repo_url: https://github.com/deFAT64/meshcore-manual-pl
 copyright: >
-  <a href="https://github.com/deFAT64/meshcore-manual-pl?tab=License-1-ov-file">Licencja witryny.</a> // Strona jest hostowana w serwisie radpidc.pl. <a href="https://rapiddc.pl/polityka-prywatnosci">Ich polityka prywatności.</a>
+  <a href="https://github.com/deFAT64/meshcore-manual-pl?tab=License-1-ov-file">Licencja witryny.</a> // Strona jest hostowana w serwisie radpidc.pl. <a href="https://rapiddc.pl/polityka-prywatnosci">Ich polityka prywatności. // Ostatnia aktualizacja: 2025-08-14.</a>
