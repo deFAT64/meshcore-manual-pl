@@ -123,3 +123,11 @@ Poniżej sprawdzone przeze mnie w terenie przypadki działania oraz nie. Z jedne
 ## Inne kalkulatory
 
 <a href="/przydatneLinki" target=_blank>Tutaj znajdziesz inne kalkulatory stref Fresnela.</a>
+
+## Techniczne opracowania
+
+<a href="https://www.zytrax.com/tech/wireless/fresnel.htm" target=_blank>Zytrax.info</a>
+<a href="https://www.sciencedirect.com/topics/engineering/fresnel-zone" target=_blank>ScienceDirect</a>
+<a href="https://info.bannerengineering.com/cs/groups/public/documents/literature/135765.pdf" target=_blank>Banner Engineering Corp</a>
+
+
