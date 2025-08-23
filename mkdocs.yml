@@ -18,6 +18,7 @@ nav:
       - 'Routing, kanał publiczny i advert': './zaawansowane/routing.md'
       - 'Duty cycle': './zaawansowane/dutyCycle.md'
       - 'Presety': './zaawansowane/presety.md'
+      - 'Strefa Fresnela i jej analiza': './zaawansowane/strefaFresnela.md'
       - 'Rodzaje złącz antenowych': './zaawansowane/rodzajeZlaczAntenowych.md'
       - 'Dobre praktyki przy budowaniu repeaterów': './zaawansowane/jakBudowacRepeatery.md'
     - 'Repeatery':
