@@ -18,6 +18,7 @@
 - <a href="https://www.everythingrf.com/rf-calculators/fresnel-zone-calculator" target=_blank>Mapa wysokościowa terenu Everythingrf.com</a>
 - <a href="https://www.omnicalculator.com/physics/fresnel-zone" target=_blank>Kalkulator strefy Fresnela Omnicalculator</a>
 - <a href="https://www.everythingrf.com/rf-calculators/fresnel-zone-calculator" target=_blank>Kalkulator strefy Fresnela Everythingrf</a>
+- <a href="https://www.cdt21.com/technical_tools/fresnel-zone/" target=_blank>Kalkulator strefy Fresnela CDT21.com</a>
 
 ## Narzędzia zaawansowane
 
