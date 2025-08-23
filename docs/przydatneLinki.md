@@ -14,7 +14,10 @@
 ## Mapy i symulatory
 
 - <a href="https://site.meshtastic.org/" target=_blank>Symulator zasięgu. Pochodzi od Meshtastic, ale częstotliwość jest ta sama.</a>
-- <a href="https://en-gb.topographic-map.com/map-wmv51/Ukraine/" target=_blank>Mapa wysokościowa terenu</a>
+- <a href="https://en-gb.topographic-map.com/map-wmv51/Ukraine/" target=_blank>Mapa wysokościowa terenu Topographic-map.com</a>
+- <a href="https://www.everythingrf.com/rf-calculators/fresnel-zone-calculator" target=_blank>Mapa wysokościowa terenu Everythingrf.com</a>
+- <a href="https://www.omnicalculator.com/physics/fresnel-zone" target=_blank>Kalkulator strefy Fresnela Omnicalculator</a>
+- <a href="https://www.everythingrf.com/rf-calculators/fresnel-zone-calculator" target=_blank>Kalkulator strefy Fresnela Everythingrf</a>
 
 ## Narzędzia zaawansowane
 
