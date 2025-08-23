@@ -57,6 +57,10 @@ Stosunek sygnału do szumu. Im wyżej, tym lepiej.
 ### Spreading Factors
 Określa szybkość transmisji w technologii LoRa. Im mniejszy, tym większa szybkość transmisji danych kosztem odległości. Im większa szybkość transmisji, tym czas nadawania urządzenia zmniejsza się, przez co w jednym cyklu "Duty Cycle" można przesłać więcej informacji, jednak na krótszy dystans. <a href="https://www.thethingsnetwork.org/docs/lorawan/spreading-factors/" target="_blank">Dokument techniczny.</a>
 
+### Strefa Fresnela
+
+Elipsoidalny obszar wokół prostej linii pomiędzy nadajnikiem i odbiornikiem, który aktywnie uczestnicy w przenoszeniu sygnału radiowego. Więcej informacji znajdziesz <a href="/zaawansowane/strefaFresnela" target=_blank>tutaj.</a>
+
 ### Szerokość kanału
 Zakres częstotliwości, w jakiej urządzenie transmituje synał bezprzewodowy. Im szerszy kanał, tym więcej danych można przesłać kosztem potencjalnie wiekszych zakłóceń. 
 
