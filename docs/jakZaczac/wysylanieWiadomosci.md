@@ -1,5 +1,8 @@
 # Wysyłanie wiadomości
 
+!!! note
+    Jeśli klienci posiadają bezpośrednie połączenie to repeater nie musi być obecny, aby wysłać wiadomość. Jeśli na biurku skonfigurujesz dwie płytki w trybie klient, to możesz bezproblemowo wysyłać i odbierać wiadomości pomiędzy nimi.
+
 Aby wysłać komuś wiadomość, musisz posiadać daną osobę w kontaktach, czyli widzieć jego płytkę. Nowe urządzenie oprócz prawidłowej konfiguracji należy również <a href="/zaawansowane/zarzadzanie/wysylanieReklam" target=_blank> rozgłosić w sieci MeshCore.</a> Jeśli w twojej okolicy są inni użytkownicy, to powinni oni pojawić się w ciągu kilku sekund do kilkunastu minut na liście kontaktów.
 
 1. Jeśli jakieś urządzenie zostanie znalezione, pojawi się na liście kontaktów. 

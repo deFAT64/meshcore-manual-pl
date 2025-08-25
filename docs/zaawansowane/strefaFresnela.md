@@ -2,6 +2,12 @@
 
 Bawiąc się łącznością radiową prędzej czy później trafisz na takie określenie jak **strefa Fresnela**. Aby bardziej zobrazować co kryje się pod tym pojęciem, posłużę się przykładem. Masz dwie stacje oddalone od siebie, np. o 5 kilometrów. Masz na tyle dobrą lornetkę, że widzisz optycznie odległe urządzenie. Jednak fale radiowe nie rozchodzą się liniowo, tylko przypominają "jajko" lub "piłkę do rugby".
 
+!!! note
+    Traktuj ten wpis jako pewnego rodzaju "przypomnienie", że coś takiego jest. Aby dokładnie zgłębić temat, poszukaj odpowiednich artykułów dotyczących anten. 
+
+    Artykuł bazuje na antenach kierunkowych.
+    
+
 <figure markdown="span">
     <img src="/zaawansowane/img/strefaFresnela/1.webp">
 </figure>
